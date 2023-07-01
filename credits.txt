@@ -1,0 +1,3 @@
+Credits File
+
+Each branch will have this file with all the credits
