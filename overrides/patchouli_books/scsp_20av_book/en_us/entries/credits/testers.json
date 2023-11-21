@@ -1,0 +1,18 @@
+{
+    "name": "Beta Testers",
+    "icon": "minecraft:totem_of_undying",
+    "category": "patchouli:the_credits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Thanks to the testers listed on the next page. If you would like to be a beta tester drop us a line on CurseForge!"
+        }
+  ,
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:diamond",
+      "title": "Team Squirrel",
+      "text": "$(li)$(l:https://laby.net/@Mrs_Net_Squirrel)Mrs_Net_Squirrel$(/l)$(li)$(l:https://laby.net/@The_Goat_Jedi)The_Goat_Jedi$(/l) $(li)$(l:https://laby.net/@Lila_Pink)Lila_Pink$(/l) $(li)$(l:https://laby.net/@Network_Squirrel)Network_Squirrel$(/l) $()$(br2)Even I did some testing! "
+    }
+  ]
+}

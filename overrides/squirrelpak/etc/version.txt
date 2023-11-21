@@ -1,0 +1,11 @@
+# SquirrelCraft SquirrelPAK
+#
+
+PAK_NAME="20AV"
+PAK_RELEASE=0.1.0-Beta
+PAK_VER="$PAK_RELEASE-1.20.1"
+PAK_DESC="Almost Vanilla"
+
+PAK_Menu_Beta_Text="&c$PAK_VER"
+
+PAK_Menu_Config_Dir="./config/fancymenu/logos"

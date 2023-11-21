@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK 20AV",
+    "icon": "squirrelpak:textures/logos/scsp_av_thumb.png",
+    "category": "patchouli:other_packs/1201_packs",
+  "sortnum": 0,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Almost Vanilla is just what is says. Vanilla Minecraft with a dash of squirrels. That dash includes life improvement mods including JourneyMap, MouseTweaks, JEI, and others. Also included are mods that we here at SquirrelHQ think add a little extra that makes this pack 'Almost Vanilla'. $(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-20av)SquirrelPAK 20AV Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Almost Vanilla 1.20",
+      "images": ["squirrelpak:textures/logos/scsp_20av_logo_patch.png"
+      ]
+    }
+    ]
+}
