@@ -1,3 +1,75 @@
+SquirrelPAK 20AV - Almost Vanilla v1.0.1-1.20.1
+=====================================================
+SquirrelPAK 20AV Release 1.0.1
+File Version 1.0.1-1.20.1
+=====================================================
+
+
+ 
+Hark We Are Here, Again
+
+Summary:
+First Production Release, plus a tale or L
+
+The Squirrels Ta(L)e was missing in all the logos, we re-attached the taLe with no issues ;-) 
+
+Mod Changes from v1.0.0-1.20.1
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20AV - Almost Vanilla v1.0.1-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v1.0.0-1.20.1
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20AV-v1.0.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20AV - Almost Vanilla v1.0.0-1.20.1
 =====================================================
 SquirrelPAK 20AV Release 1.0.0
