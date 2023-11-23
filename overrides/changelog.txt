@@ -1,3 +1,76 @@
+SquirrelPAK 20AV - Almost Vanilla v1.0.0-1.20.1
+=====================================================
+SquirrelPAK 20AV Release 1.0.0
+File Version 1.0.0-1.20.1
+=====================================================
+
+
+ 
+Hark We Are Here
+
+Summary:
+First Production Release. Updated mods that needed it
+last few system checks, we are go for lunch...:-)
+ 
+ 
+Mod Changes from v0.1.0-Beta-1.20.1
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20AV - Almost Vanilla v1.0.0-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v0.1.0-Beta-1.20.1
+CraftTweaker-forge-1.20.1-14.0.26.jar                          | CraftTweaker-forge-1.20.1-14.0.24.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20AV-v1.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20AV - Almost Vanilla v0.1.0-Beta-1.20.1
 =====================================================
 SquirrelPAK 20AV Release 0.1.0-Beta
