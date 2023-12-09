@@ -16,13 +16,13 @@ customization {
 customization {
   orientation = top-left
   loop = true
+  audio_source:3e563f08-8098-4776-868e-d9fc7dc0bf161701922955804 = config/fancymenu/music/all-of-us.ogg;EXTERNAL_LOCAL;15;0
   channel = music
-  audio_source:83d07edc-a3b2-48d8-8522-41fe8d318cee1652037664863 = config/fancymenu/music/Behind the waterfall.ogg;EXTERNAL_LOCAL;25;0
-  x = 114
+  x = 124
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = fe8e3f4b-4076-4353-b293-318b58f076f11652037657469
-  y = 71
+  actionid = b4e553c2-9c3d-4052-8b33-30117e32be4e1701922935162
+  y = 109
   once_per_session = false
   height = 50
 }

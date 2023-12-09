@@ -1,8 +1,6 @@
-# SquirrelCraft MC20 SquirrelPAKS
+# SquirrelCraft SquirrelPAK LP20
 
-SquirrelCraft SquirrelPAK MC20 Packs!
-
-This repo will hold all code for each PAK based on MC v1.20. Each PAK has it's own branch. 
+SquirrelCraft SquirrelPAK LP20 Lets Play!
 
 For issues, open an issue on the issue tracker, be sure to let us know what PAK you have the issue with and we will tag it. 
 

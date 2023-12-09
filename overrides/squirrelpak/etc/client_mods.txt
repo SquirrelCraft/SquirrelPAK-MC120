@@ -1,4 +1,4 @@
-# client mods for SquirrelPAK 20AV
+# client mods for SquirrelPAK MC20 LP
 # Audio Extension for FancyMenu [Forge] (by Keksuccino)
 fm_audio_extension_forge*
 # Auudio [Forge] (by Keksuccino)

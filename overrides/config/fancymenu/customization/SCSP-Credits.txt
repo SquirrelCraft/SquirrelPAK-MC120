@@ -26,7 +26,7 @@ customization {
   width = 333
   action = addshape
   actionid = 9f328c86-ad54-4174-a2b2-3105e1da9a941649882022496
-  y = -100
+  y = -101
   height = 161
 }
 
@@ -34,14 +34,13 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = opengui
+  buttonaction = opengui;net.minecraft.client.gui.screens.TitleScreen%btnaction_splitter_fm%
   x = -50
   width = 100
-  actionid = d36c1436-02f7-450d-9bdb-3e60875f85841649881966981
   action = addbutton
+  actionid = d36c1436-02f7-450d-9bdb-3e60875f85841649881966981
   y = 114
   label = Ok
-  value = net.minecraft.client.gui.screens.TitleScreen
   height = 20
 }
 
@@ -114,6 +113,6 @@ customization {
   y = -56
   scale = 1.0
   alignment = left
-  value = Eric Skiff - Behind the waterfall..  - Resistor Anthems
+  value = Eric Skiff - All of Us - Resistor Anthems
 }
 

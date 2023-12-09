@@ -1,11 +1,11 @@
 # SquirrelCraft SquirrelPAK
 #
 
-PAK_NAME="20AV"
-PAK_RELEASE=1.0.1
+PAK_NAME="LP20"
+PAK_RELEASE=1.0.0
 PAK_VER="$PAK_RELEASE-1.20.1"
-PAK_DESC="Almost Vanilla"
+PAK_DESC="Lets Play MC20!"
 
-PAK_Menu_Beta_Text="&2v$PAK_VER"
+PAK_Menu_Beta_Text="&aSquirrelPAK LP20 - v$PAK_RELEASE "
 
 PAK_Menu_Config_Dir="./config/fancymenu/logos"

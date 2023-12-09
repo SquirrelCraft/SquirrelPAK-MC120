@@ -1,0 +1,19 @@
+{
+    "name": "YouTube",
+    "icon": "minecraft:cobweb",
+    "category": "patchouli:general",
+  "sortnum": 2,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This SquirrelPAK is used for the Lets Play streaming on our YouTube channel. If you have not seen it check it out today and play along!"
+        }
+  ,
+    {
+      "type": "patchouli:link",
+      "text": "Click the button below to link to our YouTube Page.",
+      "url": "https://www.youtube.com/channel/UCrDZ3ifO2-lbDjm7a-8jQbA",
+      "link_text": "Open YouTube"
+    }
+    ]
+}
