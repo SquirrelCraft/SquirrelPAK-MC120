@@ -1,3 +1,69 @@
+SquirrelPAK LP20 - Lets Play MC20! v1.1.1-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 1.1.1
+File Version 1.1.1-1.20.1
+=====================================================
+
+
+ 
+
+World, Food and More + Patch
+
+Summary:
+This is group A updates that adds ALOT of world gen, food and other stuff. For the full list of added mods see the link below 
+
+We also updated any mods that needed it.
+
+If this looks like the change log to v1.1.0 you're right! This fixes the bug that was found 
+On the server update stream. Oops Don't we test this stuff?
+
+
+See v1.1.0 change below for more details
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v1.1.1-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v1.1.0-1.20.1
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v1.1.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v1.1.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 1.1.0
