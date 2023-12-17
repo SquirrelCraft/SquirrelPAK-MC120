@@ -4,7 +4,7 @@ Summary:
 Notes Here
  
  
-Mod Changes from v1.0.0-1.20.1
+Mod Changes from v1.1.0-1.20.1
 
 
 Added Mods:

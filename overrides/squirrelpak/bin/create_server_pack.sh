@@ -68,8 +68,8 @@ fi
 # Pack Name / Ver
 source ./squirrelpak/etc/version.txt
 
-SCSP_Server_Dir="/tmp/SquirrelPAK-$PAK_NAME-v$PAK_VER"
-SCSP_Server_File="$Script_Dir/SquirrelPAK-$PAK_NAME-v$PAK_VER.zip"
+SCSP_Server_Dir="/tmp/Server-SquirrelPAK-$PAK_NAME-v$PAK_VER"
+SCSP_Server_File="$Script_Dir/Server-SquirrelPAK-$PAK_NAME-v$PAK_VER.zip"
 
 echo " "
 echo "Creating Server File for SquirrelPAK $PAK_NAME - $PAK_DESC v$PAK_VER"
@@ -107,19 +107,29 @@ cp -R ./resources $SCSP_Server_Dir
 echo " Copy journeymap..."
 cp -R ./journeymap $SCSP_Server_Dir
 
+echo " Copy scripts..."
+cp -R ./scripts $SCSP_Server_Dir
+
+echo " Copy server scripts..."
+mkdir $SCSP_Server_Dir/srv-maint
+cp -R ./squirrelpak/server-scripts/* $SCSP_Server_Dir/srv-maint
+
 echo " Copy changelog..."
 cp ./changelog.txt $SCSP_Server_Dir
+
+echo " Copy credits.txt..."
+cp ./credits.txt $SCSP_Server_Dir
 
 echo " "
 echo " Remove client only mods..."
 # Remove client only mods from list
-input="$Script_Dir/squirrelpak/client_mod_remove_list.txt"
+input="$Script_Dir/squirrelpak/etc/client_mod_remove_list.txt"
 
 cd $SCSP_Server_Dir
 
 while IFS= read -r file; do
 
-	if [[ $file = \#* ]]
+	if [[ $file = *\#* ]]
 	then
 		echo " $file"
 	else
@@ -146,6 +156,7 @@ echo " Create zip file..."
 zip -r -9 "$SCSP_Server_File" $SCSP_Server_Dir/*
 echo " "
 
+cd $Script_Dir
 echo " ----------------------------------------------------------------------------"
 echo " Script Complete!"
 echo " Zip file $SCSP_Server_File created"

@@ -21,8 +21,6 @@ durabilitytooltip*
 fancymenu*
 # Farsight [Forge] (by someaddon)
 farsight*
-# Freecam (Fabric/Forge) (by hashalites)
-freecam*
 # Light Overlay (Rift/Forge/Fabric) (by shedaniel)
 light-overlay*
 # Mouse Tweaks (by YaLTeR)
