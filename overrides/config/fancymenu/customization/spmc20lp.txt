@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  name = lets-play-pano-midnight
+  name = CASTLE_LOCAL
   action = setbackgroundpanorama
 }
 

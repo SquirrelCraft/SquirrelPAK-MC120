@@ -16,13 +16,13 @@ customization {
 customization {
   orientation = top-left
   loop = true
-  audio_source:3e563f08-8098-4776-868e-d9fc7dc0bf161701922955804 = config/fancymenu/music/all-of-us.ogg;EXTERNAL_LOCAL;15;0
+  audio_source:969af59c-ee39-4d1b-8a7f-43002a43b8491709993066835 = config/fancymenu/music/Townsong - Alexander Nakarada.ogg;EXTERNAL_LOCAL;10;0
   channel = music
-  x = 124
+  x = 32
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = b4e553c2-9c3d-4052-8b33-30117e32be4e1701922935162
-  y = 109
+  y = 45
   once_per_session = false
   height = 50
 }
