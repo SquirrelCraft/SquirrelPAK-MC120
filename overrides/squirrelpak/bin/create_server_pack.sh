@@ -5,12 +5,12 @@
 #
 #
 #     Internal Script 
-#     v1.0
+#     v1.3
 
 
 #     squirrelpak/bin/create_server_pack.sh
 #     Copyright (C) 2023 The Network Squirrel(SquirrelCraft)
-#     https://github.com/SquirrelCraft     
+#     https://github.com/SquirrelCraft/squirrelpak-scripts     
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
@@ -28,11 +28,11 @@
     
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Server Export Script v1.0"
+echo "  SquirrelPAK Server Export Script v1.3"
 echo "  (create_server_pack.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2023 The Network Squirrel(SquirrelCraft)                   |"
-echo " | https://github.com/SquirrelCraft                                         |"
+echo " | https://github.com/SquirrelCraft/squirrelpak-scripts                     |"
 echo " | This program comes with ABSOLUTELY NO WARRANTY; This is free software,   |"
 echo " | and you are welcome to redistribute it under certain conditions          |"
 echo " ----------------------------------------------------------------------------"
@@ -68,8 +68,8 @@ fi
 # Pack Name / Ver
 source ./squirrelpak/etc/version.txt
 
-SCSP_Server_Dir="/tmp/SquirrelPAK-$PAK_NAME-v$PAK_VER"
-SCSP_Server_File="$Script_Dir/SquirrelPAK-$PAK_NAME-v$PAK_VER.zip"
+SCSP_Server_Dir="/tmp/Server-SquirrelPAK-$PAK_NAME-v$PAK_VER"
+SCSP_Server_File="$Script_Dir/Server-SquirrelPAK-$PAK_NAME-v$PAK_VER.zip"
 
 echo " "
 echo "Creating Server File for SquirrelPAK $PAK_NAME - $PAK_DESC v$PAK_VER"
@@ -107,13 +107,23 @@ cp -R ./resources $SCSP_Server_Dir
 echo " Copy journeymap..."
 cp -R ./journeymap $SCSP_Server_Dir
 
+echo " Copy scripts..."
+cp -R ./scripts $SCSP_Server_Dir
+
+echo " Copy server scripts..."
+mkdir $SCSP_Server_Dir/srv-maint
+cp -R ./squirrelpak/server-scripts/* $SCSP_Server_Dir/srv-maint
+
 echo " Copy changelog..."
 cp ./changelog.txt $SCSP_Server_Dir
+
+echo " Copy credits.txt..."
+cp ./credits.txt $SCSP_Server_Dir
 
 echo " "
 echo " Remove client only mods..."
 # Remove client only mods from list
-input="$Script_Dir/squirrelpak/client_mod_remove_list.txt"
+input="$Script_Dir/squirrelpak/etc/client_mod_remove_list.txt"
 
 cd $SCSP_Server_Dir
 
@@ -121,7 +131,7 @@ while IFS= read -r file; do
 
 	if [[ $file = \#* ]]
 	then
-		echo " $file"
+		echo "$file"
 	else
 		echo " delete file $file"
 		pwd
@@ -146,6 +156,7 @@ echo " Create zip file..."
 zip -r -9 "$SCSP_Server_File" $SCSP_Server_Dir/*
 echo " "
 
+cd $Script_Dir
 echo " ----------------------------------------------------------------------------"
 echo " Script Complete!"
 echo " Zip file $SCSP_Server_File created"

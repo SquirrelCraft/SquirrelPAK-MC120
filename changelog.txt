@@ -1,3 +1,84 @@
+SquirrelPAK 20AV - Almost Vanilla v1.0.2-1.20.1
+=====================================================
+SquirrelPAK 20AV Release 1.0.2
+File Version 1.0.2-1.20.1
+=====================================================
+
+ 
+House Keeping 
+
+Summary:
+Updated all mods with updates. Moved to the latest Forge
+ver (47.2.20)
+ 
+-------------------------------------------
+ Mod Changes from v1.0.1-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20AV - Almost Vanilla v1.0.2-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v1.0.1-1.20.1
+AdvancementPlaques-1.20.1-forge-1.5.1.jar                      | AdvancementPlaques-1.20.1-forge-1.4.10.jar
+CraftTweaker-forge-1.20.1-14.0.30.jar                          | CraftTweaker-forge-1.20.1-14.0.26.jar
+Iceberg-1.20.1-forge-1.1.18.jar                                | Iceberg-1.20.1-forge-1.1.16.jar
+JustEnoughResources-1.20.1-1.4.0.247.jar                       | JustEnoughResources-1.20.1-1.4.0.238.jar
+MapFrontiers-1.20.1-2.6.0p1-forge.jar                          | MapFrontiers-1.20.1-2.6.0-forge.jar
+Patchouli-1.20.1-84-FORGE.jar                                  | Patchouli-1.20.1-81-FORGE.jar
+PuzzlesLib-v8.1.14-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.9-1.20.1-Forge.jar
+areas-1.20.1-5.3.jar                                           | areas-1.20.1-5.2.jar
+balm-forge-1.20.1-7.2.1.jar                                    | balm-forge-1.20.1-7.1.4.jar
+chunksending-1.20.1-2.8.jar                                    | chunksending-1.20.1-2.7.jar
+cloth-config-11.1.118-forge.jar                                | cloth-config-11.1.106-forge.jar
+collective-1.20.1-7.30.jar                                     | collective-1.20.1-7.7.jar
+connectivity-1.20.1-4.9.jar                                    | connectivity-1.20.1-4.8.jar
+cupboard-1.20.1-2.2.jar                                        | cupboard-1.20.1-2.1.jar
+fancymenu_forge_2.14.13_MC_1.20.1.jar                          | fancymenu_forge_2.14.9-3_MC_1.20.1.jar
+ftb-chunks-forge-2001.2.5.jar                                  | ftb-chunks-forge-2001.2.3.jar
+ftb-essentials-forge-2001.2.2.jar                              | ftb-essentials-forge-2001.2.1.jar
+ftb-library-forge-2001.1.5.jar                                 | ftb-library-forge-2001.1.4.jar
+konkrete_forge_1.8.0_MC_1.20-1.20.1.jar                        | konkrete_forge_1.6.1-2_MC_1.20.jar
+netherportalfix-forge-1.20-13.0.1.jar                          | netherportalfix-forge-1.20-13.0.0.jar
+polylib-forge-2000.0.3-build.97.jar                            | polylib-forge-1200.0.2-build.85.jar
+stackrefill-1.20.1-4.2.jar                                     | stackrefill-1.20.1-4.1.jar
+starterkit-1.20.1-5.5.jar                                      | starterkit-1.20.1-5.3.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20AV-v1.0.2-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20AV - Almost Vanilla v1.0.1-1.20.1
 =====================================================
 SquirrelPAK 20AV Release 1.0.1
