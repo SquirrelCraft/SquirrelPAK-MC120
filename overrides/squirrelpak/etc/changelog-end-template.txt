@@ -1,4 +1,8 @@
 
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
 Please report any issues with the mod pack on the issue tracker
 on our github page. See the mod pack description for details
 
