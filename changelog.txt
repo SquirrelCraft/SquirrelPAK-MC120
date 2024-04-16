@@ -1,3 +1,116 @@
+SquirrelPAK LP20 - Lets Play MC20! v1.3.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 1.3.0
+File Version 1.3.0-1.20.1
+=====================================================
+
+For every thing, there is a season, turn turn turn...
+
+Summary:
+
+Group C mods for v1.X! Also updated mods that had 
+update as usual. We are getting very close to v2.0
+and release of the next PAK!
+
+Note that we added chimneys so all your smoke making
+blocks will make smoke so be ready to make chimneys   
+ 
+ 
+-------------------------------------------
+ Mod Changes from v1.2.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v1.3.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v1.2.0-1.20.1
+AdChimneys-1.20.1-10.1.4.0-build.0314.jar                      < 
+Aquaculture-1.20.1-2.5.1.jar                                   < 
+CommonCapabilities-1.20.1-2.9.1.jar                            | CommonCapabilities-1.20.1-2.9.0.jar
+CraftTweaker-forge-1.20.1-14.0.28.jar                          | CraftTweaker-forge-1.20.1-14.0.27.jar
+FramedBlocks-9.1.6.jar                                         < 
+PuzzlesLib-v8.1.12-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.11-1.20.1-Forge.jar
+SereneSeasons-1.20.1-9.0.0.46.jar                              < 
+TravelersBackpack-1.20.1-9.1.12.jar                            | TravelersBackpack-1.20.1-9.1.11.jar
+alexsmobs-1.22.7.jar                                           < 
+bagofyurting-1.20.1-4.0.0.1.jar                                < 
+citadel-2.4.9-1.20.1.jar                                       < 
+collective-1.20.1-7.30.jar                                     | collective-1.20.1-7.26.jar
+cupboard-1.20.1-2.2.jar                                        | cupboard-1.20.1-2.1.jar
+curios-forge-5.4.7+1.20.1.jar                                  | curios-forge-5.4.6+1.20.1.jar
+customizableelytra-forge-2.1.1+1.20.jar                        < 
+domum_ornamentum-1.20-1.0.110-RELEASE-universal.jar            < 
+everycomp-1.20-2.6.21.jar                                      | everycomp-1.20-2.6.18.jar
+ftb-chunks-forge-2001.2.5.jar                                  | ftb-chunks-forge-2001.2.4.jar
+fusion-1.1.0c-forge-mc1.20.1.jar                               < 
+immersiveores-1.20.1-0.7.jar                                   | immersiveores-1.20.1-0.6.jar
+jumbofurnace-1.20.1-4.0.0.5.jar                                < 
+kotlinforforge-4.10.0-all.jar                                  | kotlinforforge-4.9.0-all.jar
+mcw-bridges-2.1.1-mc1.20.1forge.jar                            < 
+mcw-doors-1.1.0forge-mc1.20.1.jar                              < 
+mcw-fences-1.0.7-mc1.20.1forge.jar                             < 
+mcw-furniture-3.2.1-mc1.20.1forge.jar                          < 
+mcw-lights-1.0.6-mc1.20.1forge.jar                             < 
+mcw-paintings-1.0.5-1.20.1forge.jar                            < 
+mcw-paths-1.0.3forge-mc1.20.1.jar                              < 
+mcw-roofs-2.2.4b-mc1.20.1forge.jar                             < 
+mcw-trapdoors-1.1.2-mc1.20.1forge.jar                          < 
+mcw-windows-2.2.1-mc1.20.1forge.jar                            < 
+moonlight-1.20-2.8.79-forge.jar                                | moonlight-1.20-2.8.70-forge.jar
+randomvillagenames-1.20.1-3.5.jar                              < 
+realisticbees-1.20.1-3.8.jar                                   < 
+rechiseled-1.1.5c-forge-mc1.20.jar                             < 
+scuba_gear-1.20.1-1.0.6.jar                                    < 
+sit-1.20.1-1.3.4.jar                                           < 
+starterkit-1.20.1-5.5.jar                                      | starterkit-1.20.1-5.4.jar
+starterstructure-1.20.1-3.4.jar                                | starterstructure-1.20.1-3.3.jar
+supermartijn642corelib-1.1.16-forge-mc1.20.1.jar               | supplementaries-1.20-2.7.13.jar
+supplementaries-1.20-2.7.21.jar                                < 
+vanillaplustools-1.20-1.0.jar                                  < 
+villagernames-1.20.1-7.3.jar                                   < 
+whetstones-1.0.1-forge-mc1.20.jar                              < 
+workshop_for_handsome_adventurer--mc1.20.1--1.14.4.jar         < 
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v1.3.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v1.2.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 1.2.0
