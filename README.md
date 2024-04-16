@@ -1,14 +1,9 @@
-# SquirrelCraft 20VP - Vainilla Plus!
+# SquirrelPAK 20LT - Low Tech 
 
 ```
-That time again? The next installment of SquirrelCraft's release of its line of forge mod packs for 1.20 is here. Spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
+The Low Tech SquirrelCraft's release of its line of forge mod packs for 1.20 is here. Spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
  
-In this release, SquirrelPAK 20VP - Almost Vanilla Plus is just what is says. SquirrelPAK 20AV PLUS some. It's Almost Vanilla Minecraft PLUS  more squirrels. Not really, I have not found a PAK that adds squirrels (YET) however what it does include is mods that I think need to be in EVERY PAK that we produce in the 1.20 line that will enhance the vanilla experience like 20AV but adds more mods that does change game play albeit in a fun way that makes SquirrelPAKs what they are, fun and always a bit nuts!
-
- 
-
-This PAK will be the foundation of the next few PAKS for 1.20. For the full list of mods in this PAK head to the Wiki.
-
+In this release, SquirrelPAK 20LT - Low Tech is built on our SquirrelPAK 20VP - Almost Vanilla PAK but starts to add some low tech mods to the mix. Its not a high tech mod PAK but just enough tech to make it sparkle. Like the eyes of that squirrel that almost ran you off the road by running in front of you the other day. It bridges the gap between the super high tech mods and the vanilla and plus PAKS.
 
   
 Issues/Questions/Documentation/Source
@@ -21,15 +16,15 @@ https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues
  
 
 Questions: Ask it on our discussions on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20vp
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20lt
 
  
 Docs: Check out the Wiki
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Almost-Vanilla-Plus
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Low-Tech
 
  
 Source: Source code can be found on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/VP
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/LT
  
  
  
@@ -39,3 +34,4 @@ Connect with us on Social Media!
 https://squirrelcraft.live
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ```
+

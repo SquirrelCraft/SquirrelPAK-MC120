@@ -28,11 +28,22 @@
 				golden_cake = true
 				enchanted_golden_cake = true
 
+			[general.types.cake.tofucraft]
+				tofucake = true
+				zundatofucake = true
+				soycheese_tart = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.domum_ornamentum]
 				cactus = true
 				cactus_extra = true
+
+		[general.types.leaves_type]
+
+			[general.types.leaves_type.tofucraft]
+				tofu = true
+				apricot = true
 
 	#Disables specific entries
 	[general.entries]
@@ -211,6 +222,9 @@
 			[general.entries.wood_type.mcwlights]
 				tiki_torch = true
 				soul_tiki_torch = true
+
+			[general.entries.wood_type.farmersdelight]
+				cabinet = true
 
 		[general.entries.leaves_type]
 

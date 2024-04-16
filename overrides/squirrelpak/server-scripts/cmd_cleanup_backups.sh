@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK LP20 Only
+#     Internal Server Script - SquirrelPAK 20LT Only
 #     Removes backed up files created by cmd_ready_for_upgrade.sh
 #     cmd_cleanup_backups.sh
 #     v1.1
