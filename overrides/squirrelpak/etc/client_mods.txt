@@ -1,8 +1,6 @@
 # Start client mods for SquirrelPAK 20VP
 # AutoTools (by lukaz)
 autotools*
-# Audio Extension for FancyMenu [Forge] (by Keksuccino)
-fm_audio_extension_forge*
 # Auudio [Forge] (by Keksuccino)
 auudio_forge*
 # Better Advancements (by way2muchnoise)
@@ -33,6 +31,8 @@ light-overlay*
 MouseTweaks*
 # Spyglass Improvements: Zoom, Quick Access (by Im_JC52)
 spyglass_improvements*
+# Panoramica [Forge]
+panoramica*
 # TipTheScales (by Jaredlll08)
 TipTheScales*
 # Load My Resources

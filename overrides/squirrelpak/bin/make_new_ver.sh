@@ -3,7 +3,7 @@
 #     Internal script
 #     Creates new version
 #     make_new_ver.sh
-#     v1.1
+#     v2.0
 # 
 
 #     make_new_ver.sh - Creates a new version
@@ -25,7 +25,7 @@
  
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Make New Version Script v1.1"
+echo "  SquirrelPAK Make New Version Script v2.0"
 echo "  (ver.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -117,14 +117,7 @@ cp -v $PAK_etc_dir/version.txt $PAK_etc_dir/version.txt.undo
 echo "   done!"
 echo " "
 echo " - Create new version"
-echo "# Please change the PAK_RELEASE to new version!" > $PAK_etc_dir/version.txt 
-echo "# " >> $PAK_etc_dir/version.txt 
-echo "PAK_RELEASE=ChnageMe!" >> $PAK_etc_dir/version.txt
-echo "# Remove these new lines!" >> $PAK_etc_dir/version.txt
-echo " " >> $PAK_etc_dir/version.txt
-cat $PAK_etc_dir/version.txt.undo >> $PAK_etc_dir/version.txt
-echo "   done!"
-echo " - Update version number via nano/vim"
+echo " - Update version numbers via nano/vim"
 nano $PAK_etc_dir/version.txt
 echo "   done"
 echo " "

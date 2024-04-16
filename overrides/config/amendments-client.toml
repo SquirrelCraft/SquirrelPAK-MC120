@@ -72,3 +72,7 @@
 	#Range: 0.0 ~ 5.0
 	sign_text_color_multiplier = 1.2
 
+[tripwire_hook]
+	#Makes hooks render faster using a block model instead of tile renderer. Cost is that animated and enchanted items will appear static
+	fast_hooks = false
+

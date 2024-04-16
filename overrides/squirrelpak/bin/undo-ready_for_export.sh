@@ -7,7 +7,7 @@
 #     current_version.txt, version.txt files to the former versions
 #     using files from the undo-files folder
 #
-#     v1.1
+#     v2.1
 # 
 
 #     /squrrelpak/bin/undo-ready_for_export.sh
@@ -30,7 +30,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Undo Script v1.1"
+echo "  SquirrelPAK CF Export Undo Script v2.1"
 echo "  (undo-ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -42,6 +42,7 @@ echo " "
 
 Script_Dir=$PWD 
 PAK_ChangeLog=./changelog.txt
+PAK_Full_ChangeLog=./changelog-full.txt
 PAK_Removed_Files_Base_Dir=./zz-do-not-export
 PAK_Export_Timestamp_File=$PAK_Removed_Files_Base_Dir/exported.timestamp
 
@@ -86,6 +87,27 @@ PAK_versons_dir=./squirrelpak/versions
 PAK_export_history_base_dir=$PAK_Removed_Files_Base_Dir/0-export-history
 PAK_last_export_history=$PAK_export_history_base_dir/last-export
 PAK_Timestamp=`date +"%C%y%m%d%H%M"`
+PAK_FM3_ASSET_DIR=./config/fancymenu/assets
+PAK_CreditsFile=./credits.txt
+echo " "
+echo " Local vars Set!"
+echo " Script_Dir=$Script_Dir"
+echo " PAK_ChangeLog=$PAK_ChangeLog"
+echo " PAK_Full_ChangeLog=$PAK_Full_ChangeLog"
+echo " PAK_bin_dir=$PAK_bin_dir"
+echo " PAK_etc_dir=$PAK_etc_dir"
+echo " PAK_versons_dir=$PAK_versons_dir"
+echo " PAK_export_history_base_dir=$PAK_export_history_base_dir"
+echo " PAK_last_export_history=$PAK_last_export_history"
+echo " PAK_Timestamp=$PAK_Timestamp"
+echo " PAK_FM3_ASSET_DIR=$PAK_FM3_ASSET_DIR"
+echo " PAK_CreditsFile=$PAK_CreditsFile"
+echo " PAK_Export_Timestamp_File=$PAK_Export_Timestamp_File"
+echo " PAK_Removed_Files_Base_Dir=$PAK_Removed_Files_Base_Dir"
+echo " "
+echo " ----------------------------------------------------------------------------"
+
+
 
 if [ -f "$PAK_etc_dir/version.txt.undo" ]; then
 	echo " Found version.txt.undo, loading"
@@ -138,14 +160,26 @@ PAK_export_history_ver_dir=$PAK_export_history_base_dir/$PAK_RELEASE-$PAK_Timest
 
 echo " Config files loaded, loaded config below:"
 echo " "
-echo "----------"
-echo "PAK_NAME=$PAK_NAME"
+echo "PAK_NAME_INIT_PFX=$PAK_NAME_INIT_PFX"
+echo "PAK_NAME_INIT=$PAK_NAME_INIT"
 echo "PAK_RELEASE=$PAK_RELEASE"
-echo "PAK_VER=$PAK_VER"
+echo "PAK_MC_VER=$PAK_MC_VER"
 echo "PAK_DESC=$PAK_DESC"
 echo "PAK_FORGE_VER=$PAK_FORGE_VER"
-echo "PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text"
 echo "PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir"
+echo "PAK_NAME=$PAK_NAME"
+echo "PAK_VER=$PAK_VER"
+echo "PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text"
+echo " - - - - Fancy Menu Vars - - - - - "
+echo "PAK_Menu3_Name=$PAK_Menu3_Name"
+echo "PAK_Menu3_Version=$PAK_Menu3_Version"
+echo "PAK_Menu3_INIT_PFX=$PAK_Menu3_INIT_PFX"
+echo "PAK_Menu3_INIT=$PAK_Menu3_INIT"
+echo "PAK_Menu3_INIT_FULL=$PAK_Menu3_INIT_FULL"
+echo "PAK_Menu3_ShortName_And_Version=$PAK_Menu3_ShortName_And_Version"
+echo "PAK_Menu3_Music_Title=$PAK_Menu3_Music_Title"
+echo "PAK_Menu3_Music_Title=$PAK_Menu3_Music_Title"
+echo "----------"
 echo "PAK_Export_Timestamp_File=$PAK_Export_Timestamp_File"
 echo "----------"
 echo "PAK_UNDO_NAME=$PAK_UNDO_NAME"
@@ -167,7 +201,6 @@ echo "PAK_Short_Ver_Name=$PAK_Short_Ver_Name "
 echo "PAK_Exported_ModListName=$PAK_Exported_ModListName "
 echo " ----------------------------------------------------------------------------"
 echo " "
-
 echo " Checking for all needed files to run the undo process"
 echo " "
 
@@ -272,12 +305,25 @@ echo "   - Done!"
 echo " "
 
 
-# Revert changelog.txt
+# Revert change logs
 echo " Revert changelog.txt"
 rm -v ./changelog.txt
 mv -v $PAK_last_export_history/changelog.txt ./changelog.txt
 echo "   - Done!"
 echo " "
+
+echo " Revert changelog-full.txt"
+rm -v ./changelog-full.txt
+mv -v $PAK_last_export_history/changelog-full.txt ./changelog-full.txt
+echo "   - Done!"
+echo " "
+
+echo " Revert Menu Change Log"
+rm -v $PAK_FM3_ASSET_DIR/changelog.txt
+cp -v ./changelog.txt $PAK_FM3_ASSET_DIR/changelog.txt
+echo "   - Done!"
+echo " "
+
 
 # Revert changelog-notes.txt
 echo " Revert changelog-notes.txt"

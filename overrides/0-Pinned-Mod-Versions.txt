@@ -1,4 +1,0 @@
-Pinned Mod Versions
-Due to Crash - https://github.com/Keksuccino/FancyMenu/issues/720
-  FancyMenu - 2.14.13 - Crashed, rendering issue
-  Drippy Loading Screen 2.2.4
