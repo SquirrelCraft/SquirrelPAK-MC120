@@ -190,24 +190,14 @@
 	#Range: 4 -> 2147483647
 	maxVertOffset=32
 	
-#Event Settings
-[events]
-	#Whether the Chocolate Event Coins will be added to the coin data.
-	#Requires /lcreload for changes to take effect.
-	#Note: Disabling will not remove any Chocolate Coin items that already exist.
-	chocolate=true
-	
-	#The percentage of Chocolate Coins being dropped instead of normal coins while an event is active.
-	#Note: Will only replace the built-in coins, so if you've modified the loot items to not include the default copper -> netherite coins, the chocolate coins will not drop.
-	#Range: 0.0 -> 1.0
-	chocolateRate=0.1
-	
+#Chocolate Coin Settings
+[chocolate_coins]
 	#Whether the Chocolate Coins will give players custom potion and/or healing effects on consumption.
 	chocolateEffects=true
 	
 #Mod Compat Options
 [compat]
-	#Claim Purchasing Settings for FTB Chunks & Cadmus
+	#Claim Purchasing Settings for FTB Chunks, Cadmus, & Flan
 	[compat.claim_purchasing]
 		#Whether the '/lcclaims buy claim' command will be accessible to players.
 		allowClaimPurchase=false
@@ -231,6 +221,12 @@
 		#Range: 1 -> 2147483647
 		maxForceloadCount=100
 		
+		#Flan Settings
+		[compat.claim_purchasing.flan]
+			#Blocks that will be added with each 'claim' purchased
+			#Range: 1 -> 64
+			blocksPerChunk=64
+			
 	#Lightman's Discord Compat Settings.
 	[compat.ldi]
 		#The channel where users can run the currency commands and where currency related announcements will be made.

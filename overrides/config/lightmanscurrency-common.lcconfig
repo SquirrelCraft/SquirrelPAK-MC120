@@ -43,6 +43,16 @@ debugLevel=0
 		#Disabling will not remove any existing Money Chest Security Upgrades from the world, nor prevent their use.
 		canCraftSecurityUpgrade=true
 		
+#Event Settings
+[events]
+	#Whether the Chocolate Event Coins will be added to the coin data.
+	#Note: Disabling will not remove any Chocolate Coin items that already exist.
+	chocolate=true
+	
+	#The percentage of Chocolate Coins being dropped instead of normal coins while an event is active.
+	#Range: 0.0 -> 1.0
+	chocolateRate=0.1
+	
 #Villager Related Settings
 #Note: Any changes to villagers requires a full reboot to be applied due to how Minecraft/Forge registers trades.
 [villagers]
