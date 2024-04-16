@@ -1,3 +1,87 @@
+SquirrelPAK LP20 - Lets Play MC20! v2.0.1-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 2.0.1
+File Version 2.0.1-1.20.1
+=====================================================
+
+ 
+Missing Mods and Tweaks
+
+Summary:
+During the 20AV mod pack build it was found we missed
+two mods. This update fixes that and adds some tweaks
+to ender tendrils. We also fixed a small typo in
+the loading screen. Also found an issue with BCC
+mod config that we have corrected as well.  
+
+Also bumped up the required Forge version to 47.2.20
+ 
+-------------------------------------------
+ Mod Changes from v2.0.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v2.0.1-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v2.0.0-1.20.1
+JustEnoughResources-1.20.1-1.4.0.247.jar                       | JustEnoughResources-1.20.1-1.4.0.238.jar
+LibX-1.20.1-5.0.12.jar                                         | LibX-1.20.1-5.0.7.jar
+PuzzlesLib-v8.1.15-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.13-1.20.1-Forge.jar
+citadel-2.5.0-1.20.1.jar                                       | citadel-2.4.9-1.20.1.jar
+cupboard-1.20.1-2.3.jar                                        | cupboard-1.20.1-2.2.jar
+curios-forge-5.5.0+1.20.1.jar                                  | curios-forge-5.4.7+1.20.1.jar
+everycomp-1.20-2.6.27.jar                                      | everycomp-1.20-2.6.26.jar
+ftb-library-forge-2001.1.5.jar                                 | ftb-library-forge-2001.1.4.jar
+geckolib-forge-1.20.1-4.4.2.jar                                | geckolib-forge-1.20.1-4.4.jar
+justmobheads-1.20.1-7.5.jar                                    < 
+lightmanscurrency-1.20.1-2.2.0.1e.jar                          | lightmanscurrency-1.20.1-2.1.2.4b.jar
+lootr-1.20-0.7.31.76.jar                                       | lootr-1.20-0.7.30.73.jar
+mcw-fences-1.1.1-mc1.20.1forge.jar                             | mcw-fences-1.1.0b-mc1.20.1forge.jar
+mcw-paths-1.0.4forge-mc1.20.1.jar                              | mcw-paths-1.0.3forge-mc1.20.1.jar
+moonlight-1.20-2.9.3-forge.jar                                 | moonlight-1.20-2.8.84-forge.jar
+sawmill-1.20-1.1.2.jar                                         < 
+supplementaries-1.20-2.7.30.jar                                | supplementaries-1.20-2.7.27.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v2.0.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v2.0.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 2.0.0

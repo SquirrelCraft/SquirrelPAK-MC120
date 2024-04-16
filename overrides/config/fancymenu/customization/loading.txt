@@ -122,16 +122,16 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 4.0
-  source = SquirrePAK
+  source = SquirrelPAK
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -133
+  x = -131
   width = 249
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 6d5e5ef7-432f-4050-a3ed-5afb7e02fd601689878407061
-  y = -91
+  y = -90
   alignment = centered
   base_color = FFAA00
   height = 40
@@ -147,13 +147,13 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 98
+  x = 108
   width = 29
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 03a41ee1-c20b-4987-bd94-c6df1df0c6041689878483412
-  y = -84
+  y = -86
   alignment = centered
-  height = 24
+  height = 21
 }
 
 customization {
@@ -166,11 +166,11 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 97
+  x = 105
   width = 33
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 576b2d02-f8cb-4c51-ba60-c99f8fdb8a541689879354860
-  y = -68
+  y = -70
   alignment = centered
   base_color = 0dff00
   height = 20

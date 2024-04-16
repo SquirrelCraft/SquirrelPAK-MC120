@@ -245,7 +245,7 @@ customization {
 customization {
   orientation = top-left
   shadow = true
-  x = -1
+  x = 5
   action = addtext
   actionid = 431bb47f-c7ac-46e6-a776-85c4383112331649893155210
   y = 2
