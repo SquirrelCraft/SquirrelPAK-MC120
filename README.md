@@ -1,18 +1,16 @@
-# SquirrelCraft 20AV - Almost Vanilla 
+# SquirrelCraft 20VP - Vainilla Plus!
 
 ```
-Hark, what is that sound!? That my fellow Squirrel is the sound of a new mod PAK dropping and hitting the CurseForge databanks! The time is here! SquirrelCraft's release of its first in a line of forge mod packs for 1.20 is here!
+That time again? The next installment of SquirrelCraft's release of its line of forge mod packs for 1.20 is here. Spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
  
-In this release, SquirrelPAK 20AV - Almost Vanilla is just what is says. Like SquirrelPAK AV, It's Vanilla Minecraft with a dash of squirrels. That dash includes life improvement mods including JourneyMap, MouseTweaks, JEI, and others. Also included are mods that we here at SquirrelHQ think add a little extra that makes this pack "Almost Vanilla" including server and performance mods.
- 
-Because this PAK will be the base for more MC 1.20 PAKs to come we have included mods that allow for better server play and administration. For the full list of mods head to the Wiki.
- 
-The purpose of this PAK to set the ground work for more mod packs that are in the works that will be based off of this one like the 1.18 version. We tried to limit the mods that make changes to game play and addition of blocks to keep it as Vanilla as we could. Download SquirrelPAK 20AV today and once agan rock Minecraft like a Squirrel, AV style!
- 
- 
-
+In this release, SquirrelPAK 20VP - Almost Vanilla Plus is just what is says. SquirrelPAK 20AV PLUS some. It's Almost Vanilla Minecraft PLUS  more squirrels. Not really, I have not found a PAK that adds squirrels (YET) however what it does include is mods that I think need to be in EVERY PAK that we produce in the 1.20 line that will enhance the vanilla experience like 20AV but adds more mods that does change game play albeit in a fun way that makes SquirrelPAKs what they are, fun and always a bit nuts!
 
  
+
+This PAK will be the foundation of the next few PAKS for 1.20. For the full list of mods in this PAK head to the Wiki.
+
+
+  
 Issues/Questions/Documentation/Source
 
  
@@ -23,13 +21,21 @@ https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues
  
 
 Questions: Ask it on our discussions on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20av
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20vp
 
  
 Docs: Check out the Wiki
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Almost-Vanilla
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Almost-Vanilla-Plus
 
  
 Source: Source code can be found on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/AV
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/VP
+ 
+ 
+ 
+-=-=-=-=-=-=-=-= Social Media =-=-=-=-=-=-=-=-=-
+Connect with us on Social Media!
+
+https://squirrelcraft.live
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ```
