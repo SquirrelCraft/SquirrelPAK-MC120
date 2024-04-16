@@ -2,7 +2,7 @@
 #
 #     Internal script to ready for Export to CF
 #
-#     v3.1
+#     v3.5
 # 
 
 #     /squrrelpak/bin/ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Script v3.1"
+echo "  SquirrelPAK CF Export Script v3.5"
 echo "  (ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -37,6 +37,7 @@ echo " "
 
 Script_Dir=$PWD 
 PAK_ChangeLog=./changelog.txt
+PAK_Full_ChangeLog=./changelog-full.txt
 PAK_Removed_Files_Base_Dir=./zz-do-not-export
 PAK_Export_Timestamp_File=$PAK_Removed_Files_Base_Dir/exported.timestamp
 
@@ -108,17 +109,21 @@ PAK_versons_dir=./squirrelpak/versions
 PAK_export_history_base_dir=$PAK_Removed_Files_Base_Dir/0-export-history
 PAK_last_export_history=$PAK_export_history_base_dir/last-export
 PAK_Timestamp=`date +"%C%y%m%d%H%M"`
-
+PAK_FM3_ASSET_DIR=./config/fancymenu/assets
+PAK_CreditsFile=./credits.txt
 
 echo " Local vars Set!"
 echo " Script_Dir=$Script_Dir"
 echo " PAK_ChangeLog=$PAK_ChangeLog"
+echo " PAK_Full_ChangeLog=$PAK_Full_ChangeLog"
 echo " PAK_bin_dir=$PAK_bin_dir"
 echo " PAK_etc_dir=$PAK_etc_dir"
 echo " PAK_versons_dir=$PAK_versons_dir"
 echo " PAK_export_history_base_dir=$PAK_export_history_base_dir"
 echo " PAK_last_export_history=$PAK_last_export_history"
 echo " PAK_Timestamp=$PAK_Timestamp"
+echo " PAK_FM3_ASSET_DIR=$PAK_FM3_ASSET_DIR"
+echo " PAK_CreditsFile=$PAK_CreditsFile"
 echo " PAK_Export_Timestamp_File=$PAK_Export_Timestamp_File"
 echo " PAK_Removed_Files_Base_Dir=$PAK_Removed_Files_Base_Dir"
 echo " "
@@ -142,13 +147,25 @@ PAK_export_history_ver_dir=$PAK_export_history_base_dir/$PAK_RELEASE-$PAK_Timest
 
 echo " Config files loaded, loaded config below:"
 echo " "
-echo " PAK_NAME=$PAK_NAME "
-echo " PAK_RELEASE=$PAK_RELEASE "
-echo " PAK_VER=$PAK_VER "
+
+echo " PAK_NAME_INIT_PFX=$PAK_NAME_INIT_PFX"
+echo " PAK_NAME_INIT=$PAK_NAME_INIT"
+echo " PAK_RELEASE=$PAK_RELEASE"
+echo " PAK_MC_VER=$PAK_MC_VER"
+echo " PAK_DESC=$PAK_DESC"
 echo " PAK_FORGE_VER=$PAK_FORGE_VER"
-echo " PAK_DESC=$PAK_DESC "
-echo " PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text "
-echo " PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir "
+echo " PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir"
+echo " PAK_NAME=$PAK_NAME"
+echo " PAK_VER=$PAK_VER"
+echo " PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text"
+echo " - - - - Fancy Menu Vars - - - - - "
+echo " PAK_Menu3_Name=$PAK_Menu3_Name"
+echo " PAK_Menu3_Version=$PAK_Menu3_Version"
+echo " PAK_Menu3_INIT_PFX=$PAK_Menu3_INIT_PFX"
+echo " PAK_Menu3_INIT=$PAK_Menu3_INIT"
+echo " PAK_Menu3_INIT_FULL=$PAK_Menu3_INIT_FULL"
+echo " PAK_Menu3_ShortName_And_Version=$PAK_Menu3_ShortName_And_Version"
+echo " - - - - - - - - - - - - - - - - - -"
 echo " PAK_Current_Version=$PAK_Current_Version "
 echo " PAK_Previous_Version=$PAK_Previous_Version "
 echo " PAK_Full_Ver_Name=$PAK_Full_Ver_Name "
@@ -430,16 +447,56 @@ echo " Setting Version on Fancy Menus, in case you forgot!"
 echo " "
 echo " Setting Fancy Menu Version Files"
 echo " "
-echo " Setting $PAK_Menu_Config_Dir/version.txt to:"
-echo " $PAK_Short_Ver_Name"
-echo "$PAK_Short_Ver_Name" > $PAK_Menu_Config_Dir/version.txt
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-init-prefx.txt to:"
+echo " $PAK_Menu3_INIT_PFX"
+echo "$PAK_Menu3_INIT_PFX" > $PAK_Menu_Config_Dir/menu-pak-init-prefx.txt
 echo " done!"
 echo " "
 
-echo " Setting $PAK_Menu_Config_Dir/beta-text.txt to:"
-echo " $PAK_Menu_Beta_Text"
-echo "$PAK_Menu_Beta_Text" > $PAK_Menu_Config_Dir/beta-text.txt
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-init.txt to:"
+echo " $PAK_Menu3_INIT"
+echo "$PAK_Menu3_INIT" >$PAK_Menu_Config_Dir/menu-pak-init.txt
 echo " done!"
+echo " "
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-init-full.txt to:"
+echo " $PAK_Menu3_INIT_FULL"
+echo "$PAK_Menu3_INIT_FULL" > $PAK_Menu_Config_Dir/menu-pak-init-full.txt
+echo " done!"
+echo " "
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-name.txt to:"
+echo " $PAK_Menu3_Name"
+echo "$PAK_Menu3_Name" > $PAK_Menu_Config_Dir/menu-pak-name.txt
+echo " done!"
+echo " "
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-short-name-ane-version.txt to:"
+echo " $PAK_Menu3_ShortName_And_Version"
+echo "$PAK_Menu3_ShortName_And_Version" > $PAK_Menu_Config_Dir/menu-pak-short-name-ane-version.txt
+echo " done!"
+echo " "
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-version.txt to:"
+echo " $PAK_Menu3_Version"
+echo "$PAK_Menu3_Version" > $PAK_Menu_Config_Dir/menu-pak-version.txt
+echo " done!"
+echo " "
+
+echo " Setting $PAK_Menu_Config_Dir/menu-pak-song-title.txt to:"
+echo " $PAK_Menu3_Music_Title"
+echo "$PAK_Menu3_Music_Title" > $PAK_Menu_Config_Dir/menu-pak-song-title.txt
+echo " done!"
+echo " "
+echo " "
+
+echo " Copy credits files to Fancy Menu Assets:"
+echo " Copy to: $PAK_FM3_ASSET_DIR/credits.txt"
+echo " --------------------------------"
+cp -v $PAK_CreditsFile $PAK_FM3_ASSET_DIR/credits.txt
+echo " --------------------------------"
+echo " done"
 echo " "
 
 echo " Setting Fancy Menu Version Files - Complete"
@@ -461,6 +518,15 @@ echo " Done!"
 echo " ----------------------------------------------------------------------------"
 echo " "
 
+echo " Backup $PAK_Full_ChangeLog to"
+echo " $PAK_export_history_prev_dir/changelog-full.txt"
+cp -v $PAK_Full_ChangeLog $PAK_export_history_prev_dir/changelog-full.txt
+echo " "
+echo " Done!"
+echo " ----------------------------------------------------------------------------"
+echo " "
+
+
 
 echo " Backup $PAK_etc_dir/changelog-notes.txt to"
 echo " $PAK_export_history_prev_dir/changelog-notes.txt"
@@ -474,8 +540,13 @@ echo " "
 
 echo " "
 echo " Update the changelog"
+echo " - - - - -"
 echo " Change changelog name to $PAK_ChangeLog.bak"
 mv -v $PAK_ChangeLog $PAK_ChangeLog.bak
+echo " "
+
+echo " Change changelog-full name to $PAK_Full_ChangeLog.bak"
+mv -v $PAK_Full_ChangeLog $PAK_Full_ChangeLog.bak
 echo " "
 
 echo " Write new change log template header"
@@ -573,17 +644,31 @@ cat $PAK_etc_dir/changelog-end-template.txt >> $PAK_ChangeLog
 echo " done"
 echo " "
 
+# Change log here is only this release to this point 
 
-
-echo " Copy change log history to new changelog"
-cat $PAK_ChangeLog.bak >> $PAK_ChangeLog
+echo " Copy this release change log to Fancy Menu Assets:"
+echo " Copy to: $PAK_FM3_ASSET_DIR/changelog.txt"
+echo " --------------------------------"
+cp -v $PAK_ChangeLog $PAK_FM3_ASSET_DIR/changelog.txt
+echo " --------------------------------"
 echo " done"
 echo " "
-echo " Remove copy of changelog"
+
+echo " Create new changelog-full.txt"
+echo "  - Copy current change log..."
+cat $PAK_ChangeLog > $PAK_Full_ChangeLog
+echo "  - Copy changelog history"
+cat $PAK_Full_ChangeLog.bak >> $PAK_Full_ChangeLog
+echo " done"
+echo " "
+echo " Remove copy of changelog.txt.bak"
 rm -v $PAK_ChangeLog.bak
 echo " done"
 echo " "
-
+echo " Remove copy of changelog-full.txt.bak"
+rm -v $PAK_Full_ChangeLog.bak
+echo " done"
+echo " "
 echo " Update changelog complete!"
 echo " "
 echo " ----------------------------------------------------------------------------"

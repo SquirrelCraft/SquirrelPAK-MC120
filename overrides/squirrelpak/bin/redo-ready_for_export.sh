@@ -2,7 +2,7 @@
 #
 #     Internal script to re-ready for Export to CF
 #
-#     v3.0
+#     v3.1
 # 
 
 #     /squrrelpak/bin/redo-ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Re-Export Script v2.2"
+echo "  SquirrelPAK CF Re-Export Script v3.1"
 echo "  (redo-ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -130,13 +130,25 @@ PAK_export_history_ver_dir=$PAK_export_history_base_dir/$PAK_RELEASE-$PAK_Timest
 
 echo " Config files loaded, loaded config below:"
 echo " "
-echo " PAK_NAME=$PAK_NAME "
-echo " PAK_RELEASE=$PAK_RELEASE "
-echo " PAK_VER=$PAK_VER "
+echo " PAK_NAME_INIT_PFX=$PAK_NAME_INIT_PFX"
+echo " PAK_NAME_INIT=$PAK_NAME_INIT"
+echo " PAK_RELEASE=$PAK_RELEASE"
+echo " PAK_MC_VER=$PAK_MC_VER"
+echo " PAK_DESC=$PAK_DESC"
 echo " PAK_FORGE_VER=$PAK_FORGE_VER"
-echo " PAK_DESC=$PAK_DESC "
-echo " PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text "
-echo " PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir "
+echo " PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir"
+echo " PAK_NAME=$PAK_NAME"
+echo " PAK_VER=$PAK_VER"
+echo " PAK_Menu_Beta_Text=$PAK_Menu_Beta_Text"
+echo " - - - - Fancy Menu Vars - - - - - "
+echo " PAK_Menu3_Name=$PAK_Menu3_Name"
+echo " PAK_Menu3_Version=$PAK_Menu3_Version"
+echo " PAK_Menu3_INIT_PFX=$PAK_Menu3_INIT_PFX"
+echo " PAK_Menu3_INIT=$PAK_Menu3_INIT"
+echo " PAK_Menu3_INIT_FULL=$PAK_Menu3_INIT_FULL"
+echo " PAK_Menu3_ShortName_And_Version=$PAK_Menu3_ShortName_And_Version"
+echo "PAK_Menu3_Music_Title=$PAK_Menu3_Music_Title"
+echo "- - - - - - - - - - - - - - - -"
 echo " PAK_Current_Version=$PAK_Current_Version "
 echo " PAK_Previous_Version=$PAK_Previous_Version "
 echo " PAK_Full_Ver_Name=$PAK_Full_Ver_Name "
