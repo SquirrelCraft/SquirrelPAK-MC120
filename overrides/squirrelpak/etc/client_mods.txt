@@ -1,6 +1,4 @@
 # client mods for SquirrelPAK 20AV
-# Audio Extension for FancyMenu [Forge] (by Keksuccino)
-fm_audio_extension_forge*
 # Auudio [Forge] (by Keksuccino)
 auudio_forge*
 # Better Advancements (by way2muchnoise)
@@ -21,13 +19,13 @@ durabilitytooltip*
 fancymenu*
 # Farsight [Forge] (by someaddon)
 farsight*
-# Freecam (Fabric/Forge) (by hashalites)
-freecam*
 # Light Overlay (Rift/Forge/Fabric) (by shedaniel)
 light-overlay*
 # Mouse Tweaks (by YaLTeR)
 MouseTweaks*
 # TipTheScales (by Jaredlll08)
+# Panoramica [Forge]
+panoramica*
 TipTheScales*
 # Load My Resources
 loadmyresources*

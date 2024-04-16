@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 0
+	modpackProjectID = 892149
 	#The name of the modpack
-	modpackName = "Almost Vanilla"
+	modpackName = "SCSP-20AV - Almost Vanilla"
 	#The version of the modpack
-	modpackVersion = "alpha1-1.20.1"
+	modpackVersion = "2.0.0"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

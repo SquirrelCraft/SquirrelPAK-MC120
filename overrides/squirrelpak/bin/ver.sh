@@ -3,12 +3,12 @@
 #     Internal script
 #     Shows the current version set in version.txt vs current_version.txt
 #     ver.sh
-#     v1.0
+#     v2.0
 # 
 
 #     ver.sh - Shows the current version set in version.txt vs current_version.txt
-#     Copyright (C) 2023 The Network Squirrel(SquirrelCraft)
-#     https://github.com/SquirrelCraft     
+#     Copyright (C) 2024 The Network Squirrel(SquirrelCraft)
+#     https://github.com/SquirrelCraft/squirrelpak-scripts     
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
@@ -25,11 +25,11 @@
  
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Version Script v1.0"
+echo "  SquirrelPAK Version Script v2.0"
 echo "  (ver.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
-echo " | Copyright (C) 2023 The Network Squirrel(SquirrelCraft)                   |"
-echo " | https://github.com/SquirrelCraft                                         |"
+echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
+echo " | https://github.com/SquirrelCraft/squirrelpak-scripts                     |"
 echo " | This program comes with ABSOLUTELY NO WARRANTY; This is free software,   |"
 echo " | and you are welcome to redistribute it under certain conditions          |"
 echo " ----------------------------------------------------------------------------"
@@ -102,18 +102,15 @@ if [ "$PAK_Debug " == "true " ]; then
     echo "PAK_Menu_Config_Dir=$PAK_Menu_Config_Dir "
     echo "PAK_Current_Version=$PAK_Current_Version "
     echo "PAK_Previous_Version=$PAK_Previous_Version "
+    echo "PAK_CUR_VER=$PAK_CUR_VER"
+    echo "PAK_PREV_VER=$PAK_PREV_VER"
     echo "PAK_Full_Ver_Name=$PAK_Full_Ver_Name "
     echo "PAK_Short_Ver_Name=$PAK_Short_Ver_Name "
     echo "PAK_Exported_ModListName=$PAK_Exported_ModListName "
 fi
 
 
-
-
 echo " "
-echo " ----------------------------------------------------------------------------"   
-echo "              SquirrelCraft - SquirrelPAK $PAK_NAME - Version Info"
-echo " ----------------------------------------------------------------------------"
 echo "  PAK Name: SquirrelPAK $PAK_NAME, $PAK_DESC"
 echo " "
 echo "  Current Release Version:"
@@ -121,4 +118,9 @@ echo "  v$PAK_Current_Version" | sed "s/$PAK_NAME-v//" | sed 's/-ModsList.txt//'
 echo " "
 echo "  Current Working Version:"
 echo "  v$PAK_VER"
+# Check if version.txt.undo exists
+if [ -f "$PAK_etc_dir/version.txt.undo" ]; then
+    echo " ----------------------------------------------------------------------------"
+    echo "   Undo Export Command Avilable: Use command [undo_ver.sh] for details"
+fi
 echo " ----------------------------------------------------------------------------"

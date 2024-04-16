@@ -1,5 +1,8 @@
-type = cached_variables
+type = user_variables
 
-variables {
+variable {
+  name = test1
+  value = 12
+  reset_on_launch = false
 }
 
