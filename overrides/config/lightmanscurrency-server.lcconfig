@@ -15,7 +15,7 @@
 [coin_mint]
 	#Whether or not Coin Mint recipes of mintType "MINT" will function.
 	#Defaults to the built-in recipes that turn resources into coins.
-	canMint=true
+	canMint=false
 	
 	#Whether or not Coin Mint recipes of mintType "MELT" will function.
 	#Defaults to the built-in recipes that turn coins back into resources.
@@ -24,46 +24,46 @@
 	#Default number of ticks it takes to process a Coin Mint recipe.
 	#Does not apply to Coin Mint recipes with a defined "duration" input.
 	#Range: 1 -> 72000
-	defaultMintDuration=100
+	defaultMintDuration=500
 	
 	#Default Recipes
 	[coin_mint.recipes]
 		#Minting
 		[coin_mint.recipes.mint]
 			#Whether recipes of mintType "MINT" with an output of copper coins will function.
-			copper=true
+			copper=false
 			
 			#Whether recipes of mintType "MINT" with an output of iron coins will function.
-			iron=true
+			iron=false
 			
 			#Whether recipes of mintType "MINT" with an output of gold coins will function.
-			gold=true
+			gold=false
 			
 			#Whether recipes of mintType "MINT" with an output of emerald coins will function.
-			emerald=true
+			emerald=false
 			
 			#Whether recipes of mintType "MINT" with an output of diamond coins will function.
-			diamond=true
+			diamond=false
 			
 			#Whether recipes of mintType "MINT" with an output of netherite coins will function.
-			netherite=true
+			netherite=false
 			
 		#Melting
 		[coin_mint.recipes.melt]
 			#Whether recipes of mintType "MELT" with an output of copper ingots will function.
-			copper=true
+			copper=false
 			
 			#Whether recipes of mintType "MELT" with an output of iron ingots will function.
-			iron=true
+			iron=false
 			
 			#Whether recipes of mintType "MELT" with an output of gold ingots will function.
-			gold=true
+			gold=false
 			
 			#Whether recipes of mintType "MELT" with an output of emeralds will function.
-			emerald=true
+			emerald=false
 			
 			#Whether recipes of mintType "MELT" with an output of diamonds will function.
-			diamond=true
+			diamond=false
 			
 			#Whether recipes of mintType "MELT" with an output of netherite ingots will function.
 			netherite=true
@@ -73,12 +73,12 @@
 	#The lowest level wallet capable of exchanging coins.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet
 	#Range: 0 -> 6
-	exchangeLevel=1
+	exchangeLevel=3
 	
 	#The lowest level wallet capable of automatically collecting coins while equipped.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet
 	#Range: 0 -> 6
-	pickupLevel=2
+	pickupLevel=4
 	
 	#The lowest level wallet capable of allowing transfers to/from your bank account.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet
@@ -137,11 +137,11 @@
 	#Whether the Auction House will be automatically generated and accessible.
 	#If disabled after players have interacted with it, items & money in the auction house cannot be accessed until re-enabled.
 	#If disabled, it is highly recommended that you also disable the 'crafting.allowAuctionStandCrafting' option in the common config.
-	enabled=true
+	enabled=false
 	
 	#Whether the Auction House will appear in the trading terminal.
 	#If false, you will only be able to access the Auction House from an Auction Stand.
-	visibleOnTerminal=true
+	visibleOnTerminal=false
 	
 	#The minimum number of days an auction can have its duration set to.
 	#If given a 0 day minimum, the minimum auction duration will be 1 hour.
@@ -169,7 +169,7 @@
 [taxes]
 	#Whether Tax Collectors can only be activated by an Admin in LC Admin Mode.
 	#Will not prevent players from crafting, placing, or configuring Tax Collectors.
-	adminOnlyActivation=false
+	adminOnlyActivation=true
 	
 	#The maximum tax rate (in %) a Tax Collector is allowed to enforce.
 	#Note: The sum of multiple tax collectors rates can still exceed this number.
@@ -190,24 +190,14 @@
 	#Range: 4 -> 2147483647
 	maxVertOffset=32
 	
-#Event Settings
-[events]
-	#Whether the Chocolate Event Coins will be added to the coin data.
-	#Requires /lcreload for changes to take effect.
-	#Note: Disabling will not remove any Chocolate Coin items that already exist.
-	chocolate=true
-	
-	#The percentage of Chocolate Coins being dropped instead of normal coins while an event is active.
-	#Note: Will only replace the built-in coins, so if you've modified the loot items to not include the default copper -> netherite coins, the chocolate coins will not drop.
-	#Range: 0.0 -> 1.0
-	chocolateRate=0.1
-	
+#Chocolate Coin Settings
+[chocolate_coins]
 	#Whether the Chocolate Coins will give players custom potion and/or healing effects on consumption.
 	chocolateEffects=true
 	
 #Mod Compat Options
 [compat]
-	#Claim Purchasing Settings for FTB Chunks & Cadmus
+	#Claim Purchasing Settings for FTB Chunks, Cadmus, & Flan
 	[compat.claim_purchasing]
 		#Whether the '/lcclaims buy claim' command will be accessible to players.
 		allowClaimPurchase=false
@@ -231,6 +221,12 @@
 		#Range: 1 -> 2147483647
 		maxForceloadCount=100
 		
+		#Flan Settings
+		[compat.claim_purchasing.flan]
+			#Blocks that will be added with each 'claim' purchased
+			#Range: 1 -> 64
+			blocksPerChunk=64
+			
 	#Lightman's Discord Compat Settings.
 	[compat.ldi]
 		#The channel where users can run the currency commands and where currency related announcements will be made.

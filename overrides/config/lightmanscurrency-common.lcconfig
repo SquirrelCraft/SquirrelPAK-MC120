@@ -10,26 +10,26 @@ debugLevel=0
 	#Whether Network Traders can be crafted.
 	#Disabling will not remove any existing Network Traders from the world, nor prevent their use.
 	#Disabling does NOT disable the recipes of Network Upgrades or the Trading Terminals.
-	canCraftNetworkTrader=true
+	canCraftNetworkTrader=false
 	
 	#Whether Trader Interface blocks can be crafted.
 	#Disabling will not remove any existing Trader Interfaces from the world, nor prevent their use.
-	canCraftTraderInterface=true
+	canCraftTraderInterface=false
 	
 	#Whether Auction Stand blocks can be crafted.
 	#Disabling will not remove any existing Auction Stands from the world, nor prevent their use.
-	canCraftAuctionStand=true
+	canCraftAuctionStand=false
 	
 	#Whether Tax Blocks can be crafted.
 	#Disabling will not remove any existing Tax Blocks from the world, nor prevent their use.
-	canCraftTaxCollector=true
+	canCraftTaxCollector=false
 	
 	#Money Chest Crafting
 	[crafting.money_chest]
 		#Whether the Money Chest can be crafted.
 		#Disabling will not remove any existing Money Chests from the world, nor prevent their use.
 		#Disabling does NOT disable the recipes of Money Chest Upgrades.
-		canCraftCoinChest=true
+		canCraftCoinChest=false
 		
 		#Whether the Money Chest Exchange Upgrade can be crafted.
 		#Disabling will not remove any existing Money Chest Exchange Upgrades from the world, nor prevent their use.
@@ -43,6 +43,24 @@ debugLevel=0
 		#Disabling will not remove any existing Money Chest Security Upgrades from the world, nor prevent their use.
 		canCraftSecurityUpgrade=true
 		
+#Event Settings
+[events]
+	#Whether advancements will give players chocolate coins as a reward for playing during the event.
+	#Note: Disabling will disable the entire `/lcadmin events reward` command used by the functions to give the reward.
+	advancementRewards=true
+	
+	#Whether the Chocolate Event Coins will be added to the coin data.
+	#Note: Disabling will not remove any Chocolate Coin items that already exist.
+	chocolate=true
+	
+	#Whether the Chocolate Event Coins will replace a small portion of the default coin loot drops during the event.
+	#See "chocolateRate" to customize the replacement rate
+	chocolateDrops=true
+	
+	#The percentage of Chocolate Coins being dropped instead of normal coins while an event is active.
+	#Range: 0.0 -> 1.0
+	chocolateRate=0.1
+	
 #Villager Related Settings
 #Note: Any changes to villagers requires a full reboot to be applied due to how Minecraft/Forge registers trades.
 [villagers]
@@ -50,7 +68,7 @@ debugLevel=0
 	addCustomWanderingTrades=true
 	
 	#Whether the banker villager profession will have any registered trades. The banker sells Lightman's Currency items for coins.
-	addBanker=true
+	addBanker=false
 	
 	#Whether the cashier villager profession will have any registered trades.. The cashier sells an amalgamation of vanilla traders products for coins.
 	addCashier=true
@@ -59,13 +77,13 @@ debugLevel=0
 	#Note: Changes made only apply to newly generated trades. Villagers with trades already defined will not be changed.
 	[villagers.modification]
 		#Whether vanilla villagers should have the Emeralds from their trades replaced with coins.
-		changeVanillaTrades=false
+		changeVanillaTrades=true
 		
 		#Whether villagers added by other mods should have the Emeralds from their trades replaced with coins.
-		changeModdedTrades=false
+		changeModdedTrades=true
 		
 		#Whether the wandering trader should have the emeralds from their trades replaced with the default replacement coin.
-		changeWanderingTrades=false
+		changeWanderingTrades=true
 		
 		#The default coin to replace a trades emeralds with.
 		defaultReplacementCoin=lightmanscurrency:coin_emerald
