@@ -1,4 +1,0 @@
-Pinned Mod Versions
-Due to new v3 need to make all new menus so keep these for now
-  FancyMenu - 2.14.13 - Crashed, rendering issue
-  Drippy Loading Screen 2.2.4

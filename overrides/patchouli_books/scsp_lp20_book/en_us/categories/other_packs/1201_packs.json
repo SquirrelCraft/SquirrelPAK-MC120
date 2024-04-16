@@ -1,7 +1,0 @@
-{
-	"name": "1.20.1 Packs",
-	"description": "With our 1.20.1 series we started out with our 20AV PAK, then built on top of 20AV we have our 20VP just like our 1.18 series",
-	"icon": "squirrelpak:textures/logos/1201_logo_thumb.png",
-	"parent": "patchouli:other_packs",
-	"sortnum":2
-}
