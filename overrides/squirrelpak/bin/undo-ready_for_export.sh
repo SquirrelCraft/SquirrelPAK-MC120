@@ -7,7 +7,7 @@
 #     current_version.txt, version.txt files to the former versions
 #     using files from the undo-files folder
 #
-#     v1.0
+#     v1.1
 # 
 
 #     /squrrelpak/bin/undo-ready_for_export.sh
@@ -30,7 +30,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Undo Script v1.0"
+echo "  SquirrelPAK CF Export Undo Script v1.1"
 echo "  (undo-ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -259,11 +259,18 @@ rm -v $PAK_versons_dir/$PAK_Exported_ModListName
 echo "   - Done!"
 echo " "
 
-# Remove export stamp
-echo " Remove export stamp"
+# Restore last export stamp
+echo " Remove current export stamp"
 rm -v $PAK_Export_Timestamp_File
 echo "   - Done!"
 echo " "
+
+# Restore last export stamp
+echo " Restore last export stamp"
+mv -v $PAK_Export_Timestamp_File.backup $PAK_Export_Timestamp_File
+echo "   - Done!"
+echo " "
+
 
 # Revert changelog.txt
 echo " Revert changelog.txt"
@@ -296,10 +303,16 @@ echo " "
 # Revert version.txt 
 echo " Revert version.txt"
 rm -v $PAK_etc_dir/version.txt
-rm -v $PAK_etc_dir/version.txt.undo.backup
 mv -v $PAK_etc_dir/version.txt.undo $PAK_etc_dir/version.txt
+
+if [ -f $PAK_etc_dir/version.txt.undo.backup ]; then
+	echo " Found version.txt.undo.backup, restore version.txt.undo"
+	mv -v $PAK_etc_dir/version.txt.undo.backup $PAK_etc_dir/version.txt.undo	
+fi
+
 echo "   - Done!"
 echo " "  
+
 
 
 # Clean up last-export

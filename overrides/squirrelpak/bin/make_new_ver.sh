@@ -3,7 +3,7 @@
 #     Internal script
 #     Creates new version
 #     make_new_ver.sh
-#     v1.0
+#     v1.1
 # 
 
 #     make_new_ver.sh - Creates a new version
@@ -25,7 +25,7 @@
  
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Make New Version Script v1.0"
+echo "  SquirrelPAK Make New Version Script v1.1"
 echo "  (ver.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -128,8 +128,13 @@ echo " - Update version number via nano/vim"
 nano $PAK_etc_dir/version.txt
 echo "   done"
 echo " "
-echo " - Remove time stamp file"
-rm -v $PAK_Export_Timestamp_File
+if [ -f $PAK_Export_Timestamp_File.backup ]; then
+	echo " Found $PAK_Export_Timestamp_File.backup"
+	echo " Remove it!"
+	rm -v $PAK_Export_Timestamp_File.backup	
+fi
+echo " - Backup time stamp file"
+mv -v $PAK_Export_Timestamp_File $PAK_Export_Timestamp_File.backup
 echo " done!"
 echo " "
 echo " Script Complete"

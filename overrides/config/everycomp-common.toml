@@ -22,12 +22,6 @@
 	#Disables certain types
 	[general.types]
 
-		[general.types.cake]
-
-			[general.types.cake.goldenfood]
-				golden_cake = true
-				enchanted_golden_cake = true
-
 		[general.types.wood_type]
 
 			[general.types.wood_type.domum_ornamentum]
@@ -71,6 +65,12 @@
 				smogstem = true
 				wigglewood = true
 				grongle = true
+
+		[general.types.cake]
+
+			[general.types.cake.goldenfoods]
+				golden_cake = true
+				enchanted_golden_cake = true
 
 	#Disables specific entries
 	[general.entries]

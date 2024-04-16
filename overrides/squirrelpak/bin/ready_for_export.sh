@@ -2,7 +2,7 @@
 #
 #     Internal script to ready for Export to CF
 #
-#     v3.0
+#     v3.1
 # 
 
 #     /squrrelpak/bin/ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Script v3.0"
+echo "  SquirrelPAK CF Export Script v3.1"
 echo "  (ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -438,6 +438,12 @@ echo " Setting Fancy Menu Version Files - Complete"
 echo " "
 echo " ----------------------------------------------------------------------------"
 
+
+echo " Confirm Change Log Notes"
+nano $PAK_etc_dir/changelog-notes.txt
+echo " Done!"
+echo " ----------------------------------------------------------------------------"
+echo " "
 
 echo " Backup $PAK_ChangeLog to"
 echo " $PAK_export_history_prev_dir/changelog.txt"

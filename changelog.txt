@@ -1,3 +1,97 @@
+SquirrelPAK LP20 - Lets Play MC20! v2.2.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 2.2.0
+File Version 2.2.0-1.20.1
+
+Required Forge Version: 47.2.20
+=====================================================
+
+ 
+Group B Mods for v2.X
+
+Summary:
+We have added the next round of mods to the PAK!
+
+Also as of v2.8 Supplementaries split some of the
+mods functions. We have added Amendments mod that
+the functions where moved to.
+ 
+-------------------------------------------
+ Mod Changes from v2.1.1-1.20.1
+-------------------------------------------
+
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v2.2.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v2.1.1-1.20.1
+AdFinders-1.20.1-9.1.3.0-build.0351.jar                        | AdFinders-1.20.1-9.1.2.0-build.0337.jar
+CraftTweaker-forge-1.20.1-14.0.34.jar                          | CraftTweaker-forge-1.20.1-14.0.32.jar
+Potion-Blender-1.20.1-FORGE-2.0.0.jar                          | PuzzlesLib-v8.1.16-1.20.1-Forge.jar
+PuzzlesLib-v8.1.17-1.20.1-Forge.jar                            < 
+The_Graveyard_3.1_(FORGE)_for_1.20.1.jar                       | The_Graveyard_2.6.2_(FORGE)_for_1.20+.jar
+The_Undergarden-1.20.1-0.8.13.jar                              | The_Undergarden-1.20.1-0.8.9.jar
+almostunified-forge-1.20.1-0.8.0.jar                           | almostunified-forge-1.20.1-0.7.2.jar
+amendments-1.20-1.0.8.jar                                      < 
+baubley-heart-canisters-1.20.1-1.0.5.jar                       < 
+collective-1.20.1-7.32.jar                                     | collective-1.20.1-7.30.jar
+dimdungeons-190-forge-1.20.1.jar                               | dimdungeons-180-forge-1.20.0.jar
+dungeonsweaponry-1.15.0-1.20.1.jar                             < 
+everycomp-1.20-2.6.34.jar                                      | everycomp-1.20-2.6.29.jar
+goldenfoods-merged-1.20.1-2.0.1.jar                            | goldenfood-2.0.1-1.20.1_forge.jar
+jei-1.20.1-forge-15.3.0.4.jar                                  | jei-1.20.1-forge-15.3.0.1.jar
+jousting-1.20.1-v1.0.9.jar                                     < 
+lightmanscurrency-1.20.1-2.2.1.0b.jar                          | lightmanscurrency-1.20.1-2.2.0.3a.jar
+luggage-1.20-1.6.2.jar                                         < 
+melody_forge_1.0.3_MC_1.20.1-1.20.4.jar                        < 
+monolib-forge-1.20.1-1.0.0.jar                                 | moonlight-1.20-2.9.9-forge.jar
+moonlight-1.20-2.10.1-forge.jar                                < 
+pamhc2foodcore-1.20.4-1.0.5.jar                                | pamhc2foodcore-1.20-1.0.3.jar
+sawmill-1.20-1.3.4.jar                                         | sawmill-1.20-1.2.6.jar
+supermartijn642corelib-1.1.17-forge-mc1.20.1.jar               | supermartijn642corelib-1.1.16-forge-mc1.20.1.jar
+supplementaries-1.20-2.8.1.jar                                 | supplementaries-1.20-2.7.33.jar
+twilightdelight-2.0.7.jar                                      | twilightdelight-2.0.4.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v2.2.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v2.1.1-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 2.1.1
