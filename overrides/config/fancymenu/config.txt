@@ -4,7 +4,7 @@
 B:playbackgroundsoundsinworld = 'true';
 B:forcefullscreen = 'false';
 [If menu background sounds added by FancyMenu should be played or not.]
-B:playbackgroundsounds = 'true';
+B:playbackgroundsounds = 'false';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'false';
 B:playmenumusic = 'false';
@@ -32,22 +32,14 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-<<<<<<< HEAD
-S:customwindowtitle = 'SquirrelPAK - 20AV';
-=======
-S:customwindowtitle = 'SquirrelPAK - 20VP';
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
+S:customwindowtitle = 'SquirrelPAK - 20ME';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
 
 ##[world_loading_screen]
 
-<<<<<<< HEAD
-B:showloadingscreenanimation = 'false';
-=======
 B:showloadingscreenanimation = 'true';
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
 B:showloadingscreenpercent = 'true';
 
 

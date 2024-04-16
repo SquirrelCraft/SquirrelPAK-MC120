@@ -9,14 +9,11 @@ customization-meta {
 }
 
 customization {
-<<<<<<< HEAD
-=======
   action = setscale
   scale = 3
 }
 
 customization {
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -130,20 +127,12 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 4.0
-<<<<<<< HEAD
-  source = SquirrelPAK
-=======
   source = SquirrePAK
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-<<<<<<< HEAD
-  x = -141
-=======
   x = -133
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   width = 248
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 6d5e5ef7-432f-4050-a3ed-5afb7e02fd601689878407061
@@ -157,30 +146,17 @@ customization {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
-<<<<<<< HEAD
-  scale = 1.5
-  source = AV
-=======
   scale = 1.7
-  source = VP
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
+  source = ME
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-<<<<<<< HEAD
-  x = 97
-  width = 29
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 03a41ee1-c20b-4987-bd94-c6df1df0c6041689878483412
-  y = -20
-=======
   x = 99
   width = 29
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 03a41ee1-c20b-4987-bd94-c6df1df0c6041689878483412
   y = -21
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   alignment = centered
   height = 22
 }
@@ -190,20 +166,16 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 2.0
-<<<<<<< HEAD
-  source = Almost Vanilla
-=======
-  source = Vanilla Plus!
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
+  source = Medieval Everquesting
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -73
-  width = 147
+  x = -118
+  width = 234
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 3d3c5e4e-55d1-4a93-80f4-07d2864a17621689878500354
-  y = 0
+  y = 2
   alignment = centered
   height = 25
 }
@@ -212,29 +184,17 @@ customization {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
-<<<<<<< HEAD
-  scale = 1.5
-=======
   scale = 1.7
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   source = 20
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-<<<<<<< HEAD
-  x = 95
-  width = 33
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 576b2d02-f8cb-4c51-ba60-c99f8fdb8a541689879354860
-  y = -37
-=======
   x = 96
   width = 33
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 576b2d02-f8cb-4c51-ba60-c99f8fdb8a541689879354860
   y = -36
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   alignment = centered
   base_color = 0dff00
   height = 20

@@ -1,4 +1,4 @@
-# Start client mods for SquirrelPAK 20VP
+# Start client mods for SquirrelPAK 20ME
 # AutoTools (by lukaz)
 autotools*
 # Audio Extension for FancyMenu [Forge] (by Keksuccino)
@@ -31,6 +31,8 @@ jmi-forge*
 light-overlay*
 # Mouse Tweaks (by YaLTeR)
 MouseTweaks*
+# Medieval Music[Forge/Fabric]
+zmedievalmusic*
 # Spyglass Improvements: Zoom, Quick Access (by Im_JC52)
 spyglass_improvements*
 # TipTheScales (by Jaredlll08)

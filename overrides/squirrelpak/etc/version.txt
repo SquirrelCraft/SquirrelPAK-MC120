@@ -1,10 +1,10 @@
 # SquirrelCraft SquirrelPAK
 #
 
-PAK_NAME="20VP"
-PAK_RELEASE=1.1.0
+PAK_NAME="20ME"
+PAK_RELEASE=1.0.0
 PAK_VER="$PAK_RELEASE-1.20.1"
-PAK_DESC="Vanilla Plus"
+PAK_DESC="Medieval Everquesting"
 
 PAK_FORGE_VER=47.2.20
 

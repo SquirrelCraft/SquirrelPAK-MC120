@@ -1,15 +1,13 @@
 ================================================================================
-SquirrelPAK 20VP - Vanilla Plus!
+SquirrelPAK 20ME - Medieval Everquesting
 Credits
 ================================================================================
 
 Music Used in this PAK:
 
- Main Menu
-  Eric Skiff - All of Us - Resistor Anthems
-  Available at http://EricSkiff.com/music
-  Licensed under Creative Commons: By Attribution 4.0
-  https://creativecommons.org/licenses/by/4.0/
+Main Menu
+  Music by Alexander Nakarada (www.creatorchords.com)
+  Licensed to use by Alexander Nakarada via Patreon
 
 
 Logo Credits:
