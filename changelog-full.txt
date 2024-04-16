@@ -1,3 +1,97 @@
+SquirrelPAK LP20 - Lets Play MC20! v4.0.1-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 4.0.1
+File Version 4.0.1-1.20.1
+
+Required Forge Version: 47.2.20
+=====================================================
+
+ 
+v4.0 is Here +Hotfix
+
+Summary:
+Added the last few low tech mods. Updated mods
+that needed updates
+
+Replaced the pano maker mod, old one was broken.
+
+Also updated to FancyMenu 3.0 - All the menus
+had to be re-created. We went all out and 
+customized them all. Also updated build scripts
+to allow to update the menu text
+
+We are now at 20LT!
+
+4.0.1 - Hot Fix - Disabled customized menus 
+for servers. Was glitching out
+ 
+ 
+ 
+
+[[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v4.0.1-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v3.1.0-1.20.1
+AdFinders-1.20.1-9.1.5.0-build.0398.jar                        | AdFinders-1.20.1-9.1.4.1-build.0365.jar
+ForgeEndertech-1.20.1-11.1.3.0-build.0398.jar                  | ForgeEndertech-1.20.1-11.1.2.0-build.0386.jar
+SimpleStorageNetwork-1.20.1-1.10.0.jar                         < 
+TinyCoal-forge-1.20.1-1.1.5.jar                                | TinyCoal-forge-1.20.1-1.1.4.jar
+TofuCraftReload-1.20.1-5.10.5.2.jar                            | TofuCraftReload-1.20.1-5.10.5.0.jar
+[1.20.1-forge]-Epic-Knights-9.8.jar                            | [1.20.1-forge]-Epic-Knights-9.5.jar
+advancednetherite-forge-2.1.0-1.20.1.jar                       | advancednetherite-forge-2.0.3-1.20.1.jar
+amendments-1.20-1.1.18.jar                                     | amendments-1.20-1.1.14.jar
+                                                               > auudio_forge_1.0.3_MC_1.19.3.jar
+camera-1.20.1-1.0.6.jar                                        < 
+drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar                  | drippyloadingscreen_forge_2.2.4_MC_1.20.1.jar
+everycomp-1.20-2.6.49.jar                                      | everycomp-1.20-2.6.42.jar
+fancymenu_forge_3.1.4_MC_1.20.1.jar                            | fancymenu_forge_2.14.13_MC_1.20.1.jar
+flib-1.20.1-0.0.11.jar                                         | fm_audio_extension_forge_1.1.3_MC_1.20.1.jar
+gottagofast-1.20.x-lexforge-2.0.1.jar                          < 
+mcw-bridges-3.0.0-mc1.20.1forge.jar                            | mcw-bridges-2.1.1-mc1.20.1forge.jar
+modular-routers-12.1.1+mc1.20.1.jar                            < 
+moonlight-1.20-2.11.12-forge.jar                               | moonlight-1.20-2.11.9-forge.jar
+panoramica_forge_1.2.1_MC_1.19-1.19.2.jar                      < 
+redstonepen-1.20.1-neoforge-1.3.33.jar                         | redstonepen-1.20.1-neoforge-1.3.29.jar
+                                                               > spanorama-1.5.1.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.15.0.jar         | workshop_for_handsome_adventurer--mc1.20.1--1.14.7.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v4.0.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v4.0.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 4.0.0
