@@ -75,11 +75,20 @@
 				purple_archwood = true
 				red_archwood = true
 
+			[general.types.leaves_type.tofucraft]
+				tofu = true
+				apricot = true
+
 		[general.types.cake]
 
 			[general.types.cake.goldenfoods]
 				golden_cake = true
 				enchanted_golden_cake = true
+
+			[general.types.cake.tofucraft]
+				tofucake = true
+				zundatofucake = true
+				soycheese_tart = true
 
 	#Disables specific entries
 	[general.entries]
