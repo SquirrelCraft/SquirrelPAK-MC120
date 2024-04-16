@@ -272,6 +272,14 @@ echo " Moving backups..."
 mv -v backups $PAK_Removed_Files_Export_Dir/
 
 echo " "
+echo " Moving panoramas..."
+mv -v panoramas $PAK_Removed_Files_Export_Dir/
+
+echo " "
+echo " Moving screenshots..."
+mv -v screenshots $PAK_Removed_Files_Export_Dir/
+
+echo " "
 echo " Moving patchouli_data.json..."
 mv -v patchouli_data.json $PAK_Removed_Files_Export_Dir/
 

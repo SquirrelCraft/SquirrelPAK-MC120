@@ -43,6 +43,9 @@
 				wigglewood = true
 				grongle = true
 
+			[general.types.wood_type.ars_nouveau]
+				archwood = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.twilightforest]
@@ -65,6 +68,12 @@
 				smogstem = true
 				wigglewood = true
 				grongle = true
+
+			[general.types.leaves_type.ars_nouveau]
+				blue_archwood = true
+				green_archwood = true
+				purple_archwood = true
+				red_archwood = true
 
 		[general.types.cake]
 

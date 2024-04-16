@@ -1,3 +1,78 @@
+SquirrelPAK LP20 - Lets Play MC20! v2.2.2-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 2.2.2
+File Version 2.2.2-1.20.1
+
+Required Forge Version: 47.2.20
+=====================================================
+
+ 
+Just a little more magic
+
+Summary:
+Since I needed to update the PAK due to a bug
+I thought we would add two more mods as well
+Details below.
+ 
+-------------------------------------------
+ Mod Changes from v2.2.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v2.2.2-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v2.2.0-1.20.1
+CraftTweaker-forge-1.20.1-14.0.36.jar                          | CraftTweaker-forge-1.20.1-14.0.34.jar
+[1.20.1-forge]-Epic-Knights-8.11.jar                           < 
+amendments-1.20-1.0.17.jar                                     | amendments-1.20-1.0.8.jar
+architectury-9.2.14-forge.jar                                  | architectury-9.1.13-forge.jar
+ars_nouveau-1.20.1-4.9.0-all.jar                               < 
+collective-1.20.1-7.36.jar                                     | collective-1.20.1-7.32.jar
+dimdungeons-191-forge-1.20.1.jar                               | dimdungeons-190-forge-1.20.1.jar
+fusion-1.1.1-forge-mc1.20.1.jar                                | fusion-1.1.0c-forge-mc1.20.1.jar
+moonlight-1.20-2.10.8-forge.jar                                | moonlight-1.20-2.10.1-forge.jar
+newshieldvariants-merged-1.20.1-1.2.0.jar                      | newshieldvariants-1.1.0-1.20.1_forge.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v2.2.2-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v2.2.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 2.2.0
