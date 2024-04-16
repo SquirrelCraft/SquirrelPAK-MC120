@@ -1,3 +1,80 @@
+SquirrelPAK LP20 - Lets Play MC20! v1.3.1-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 1.3.1
+File Version 1.3.1-1.20.1
+=====================================================
+
+ 
+Did I do that? Again!
+
+Summary:
+So Toms Storage should have made it to the prime
+time in 1.3 but it was missed. Found out why so
+we are adding it to the mix along with a mod to
+fix seasons mod
+
+-------------------------------------------
+ Mod Changes from v1.3.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v1.3.1-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v1.3.0-1.20.1
+AdFinders-1.20.1-9.1.2.0-build.0337.jar                        | AdFinders-1.20.1-9.1.1.0-build.0270.jar
+CraftTweaker-forge-1.20.1-14.0.30.jar                          | CraftTweaker-forge-1.20.1-14.0.28.jar
+PuzzlesLib-v8.1.13-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.12-1.20.1-Forge.jar
+autotools-1.9-forge-1.20.1.jar                                 | autotools-1.7-forge-1.20.1.jar
+everycomp-1.20-2.6.23.jar                                      | everycomp-1.20-2.6.21.jar
+fancymenu_forge_2.14.13_MC_1.20.1.jar                          | fancymenu_forge_2.14.9-3_MC_1.20.1.jar
+geckolib-forge-1.20.1-4.4.jar                                  | geckolib-forge-1.20.1-4.3.1.jar
+konkrete_forge_1.8.0_MC_1.20-1.20.1.jar                        | konkrete_forge_1.6.1-2_MC_1.20.jar
+moonlight-1.20-2.8.82-forge.jar                                | moonlight-1.20-2.8.79-forge.jar
+pamhc2foodcore-1.20-1.0.3.jar                                  | pamhc2foodcore-1.20-1.0.0.jar
+realseasons-1.20.1-1.2.2.jar                                   < 
+supplementaries-1.20-2.7.22.jar                                | supplementaries-1.20-2.7.21.jar
+toms_storage-1.20-1.6.5.jar                                    < 
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v1.3.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v1.3.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 1.3.0

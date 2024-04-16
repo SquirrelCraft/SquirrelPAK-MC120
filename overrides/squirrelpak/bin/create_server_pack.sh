@@ -5,7 +5,7 @@
 #
 #
 #     Internal Script 
-#     v1.4
+#     v1.5
 
 
 #     squirrelpak/bin/create_server_pack.sh
@@ -28,7 +28,7 @@
     
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Server Export Script v1.4"
+echo "  SquirrelPAK Server Export Script v1.5"
 echo "  (create_server_pack.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2023 The Network Squirrel(SquirrelCraft)                   |"
@@ -192,7 +192,7 @@ echo " File $PAK_NAME-v$PAK_VER-Server-ModsList.txt created"
 echo " "
 
 echo " Create Server PAK Change Log File at $SCSP_Server_ChangeLog_File"
-cat <<EOF > $SCSP_Server_ChangeLog_File
+cat <<EOF > "$SCSP_Server_ChangeLog_File"
 
 Server PAK for SquirrelPAK $PAK_NAME - $PAK_DESC v$PAK_VER
 
