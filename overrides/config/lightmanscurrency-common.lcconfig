@@ -10,26 +10,26 @@ debugLevel=0
 	#Whether Network Traders can be crafted.
 	#Disabling will not remove any existing Network Traders from the world, nor prevent their use.
 	#Disabling does NOT disable the recipes of Network Upgrades or the Trading Terminals.
-	canCraftNetworkTrader=true
+	canCraftNetworkTrader=false
 	
 	#Whether Trader Interface blocks can be crafted.
 	#Disabling will not remove any existing Trader Interfaces from the world, nor prevent their use.
-	canCraftTraderInterface=true
+	canCraftTraderInterface=false
 	
 	#Whether Auction Stand blocks can be crafted.
 	#Disabling will not remove any existing Auction Stands from the world, nor prevent their use.
-	canCraftAuctionStand=true
+	canCraftAuctionStand=false
 	
 	#Whether Tax Blocks can be crafted.
 	#Disabling will not remove any existing Tax Blocks from the world, nor prevent their use.
-	canCraftTaxCollector=true
+	canCraftTaxCollector=false
 	
 	#Money Chest Crafting
 	[crafting.money_chest]
 		#Whether the Money Chest can be crafted.
 		#Disabling will not remove any existing Money Chests from the world, nor prevent their use.
 		#Disabling does NOT disable the recipes of Money Chest Upgrades.
-		canCraftCoinChest=true
+		canCraftCoinChest=false
 		
 		#Whether the Money Chest Exchange Upgrade can be crafted.
 		#Disabling will not remove any existing Money Chest Exchange Upgrades from the world, nor prevent their use.
@@ -50,7 +50,7 @@ debugLevel=0
 	addCustomWanderingTrades=true
 	
 	#Whether the banker villager profession will have any registered trades. The banker sells Lightman's Currency items for coins.
-	addBanker=true
+	addBanker=false
 	
 	#Whether the cashier villager profession will have any registered trades.. The cashier sells an amalgamation of vanilla traders products for coins.
 	addCashier=true
@@ -59,13 +59,13 @@ debugLevel=0
 	#Note: Changes made only apply to newly generated trades. Villagers with trades already defined will not be changed.
 	[villagers.modification]
 		#Whether vanilla villagers should have the Emeralds from their trades replaced with coins.
-		changeVanillaTrades=false
+		changeVanillaTrades=true
 		
 		#Whether villagers added by other mods should have the Emeralds from their trades replaced with coins.
-		changeModdedTrades=false
+		changeModdedTrades=true
 		
 		#Whether the wandering trader should have the emeralds from their trades replaced with the default replacement coin.
-		changeWanderingTrades=false
+		changeWanderingTrades=true
 		
 		#The default coin to replace a trades emeralds with.
 		defaultReplacementCoin=lightmanscurrency:coin_emerald

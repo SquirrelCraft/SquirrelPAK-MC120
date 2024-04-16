@@ -202,7 +202,7 @@ Release Version $PAK_VER
 =====================================================
  
 This is the Server PAK for our $PAK_NAME Mod PAK 
-for version v1.1.2 of $PAK_NAME
+for version v$PAK_VER of $PAK_NAME
  
 For Mod PAK change log see the change log in the zip file.
  

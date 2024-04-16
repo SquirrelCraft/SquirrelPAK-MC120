@@ -1,3 +1,92 @@
+SquirrelPAK LP20 - Lets Play MC20! v2.1.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 2.1.0
+File Version 2.1.0-1.20.1
+=====================================================
+
+ 
+Group A 2.X Update
+
+Summary:
+Adds group A mods! 
+
+Also fixed coin melt issues and some other 
+tweaks 
+ 
+-------------------------------------------
+ Mod Changes from v2.0.1-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v2.1.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v2.0.1-1.20.1
+CraftTweaker-forge-1.20.1-14.0.32.jar                          | CraftTweaker-forge-1.20.1-14.0.30.jar
+DungeonsArise-1.20.x-2.1.58-release.jar                        < 
+FarmersDelight-1.20.1-1.2.4.jar                                < 
+PuzzlesLib-v8.1.16-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.15-1.20.1-Forge.jar
+The_Undergarden-1.20.1-0.8.9.jar                               < 
+Towns-and-Towers-1.12-Fabric+Forge.jar                         < 
+UndergroundVillages-forge-1.20.1-2.1.0.jar                     < 
+citadel-2.5.2-1.20.1.jar                                       | citadel-2.5.0-1.20.1.jar
+comforts-forge-6.3.5+1.20.1.jar                                | comforts-forge-6.3.4+1.20.1.jar
+cristellib-1.1.5-forge.jar                                     < 
+curios-forge-5.6.1+1.20.1.jar                                  | curios-forge-5.5.0+1.20.1.jar
+dimdungeons-180-forge-1.20.0.jar                               < 
+ends_delight-1.20.1-1.0.1.jar                                  | everycomp-1.20-2.6.27.jar
+everycomp-1.20-2.6.29.jar                                      < 
+jei-1.20.1-forge-15.3.0.1.jar                                  | jei-1.20.1-forge-15.2.0.27.jar
+lightmanscurrency-1.20.1-2.2.0.2.jar                           | lightmanscurrency-1.20.1-2.2.0.1e.jar
+moonlight-1.20-2.9.7-forge.jar                                 | moonlight-1.20-2.9.3-forge.jar
+sawmill-1.20-1.1.8.jar                                         | sawmill-1.20-1.1.2.jar
+spyglass_improvements-1.5+mc1.20+forge.jar                     | spyglass_improvements-1.4+mc1.20+forge.jar
+supplementaries-1.20-2.7.33.jar                                | supplementaries-1.20-2.7.30.jar
+tlc_forge-1.0.3-R-1.20.X.jar                                   < 
+twilightdelight-2.0.4.jar                                      < 
+twilightforest-1.20.1-4.3.2145-universal.jar                   < 
+voidtotem-forge-1.20-3.0.1.jar                                 < 
+waystones-forge-1.20-14.1.3.jar                                < 
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v2.1.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v2.0.1-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 2.0.1

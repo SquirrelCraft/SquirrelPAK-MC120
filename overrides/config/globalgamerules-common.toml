@@ -102,6 +102,8 @@
 		water_source_conversion = true
 		#Non Vanilla gamerule: 'doSeasonCycle'
 		do_season_cycle = true
+		#Non Vanilla gamerule: 'tfEnforcedProgression'
+		tf_enforced_progression = true
 
 	[gamerules.spawning]
 		#Whether phantoms can spawn in the nighttime.
