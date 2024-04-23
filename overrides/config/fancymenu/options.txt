@@ -14,7 +14,7 @@ B:advanced_customization_mode = 'false';
 ##[loading]
 
 B:preload_animations = 'true';
-S:preload_resources = '';
+S:preload_resources = '[cubic_panorama]main-menu-pano%!source_end!%[source:local]config/fancymenu/assets/gfx/bug-eyes.png%!source_end!%[source:local]config/fancymenu/assets/gfx/head_large.png%!source_end!%[source:local]config/fancymenu/assets/gfx/sc_logo.png%!source_end!%[source:local]config/fancymenu/assets/gfx/sc_menu_logo_frame.png%!source_end!%[source:local]config/fancymenu/assets/gfx/server-connect.png%!source_end!%[source:local]config/fancymenu/assets/gfx/squirrel_pick2.png%!source_end!%[source:local]config/fancymenu/assets/audio/main_menu_0.ogg%!source_end!%';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
 S:game_intro_animation_name = '';

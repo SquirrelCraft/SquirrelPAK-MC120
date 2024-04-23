@@ -1,5 +1,5 @@
 #
-#     Internal Server Scripts - SquirrelPAK xxxx Only
+#     Internal Server Scripts - SquirrelPAK LP20 Only
 #     
 #     These scripts are for our internal use. You may use them for your 
 #     own servers but at your own risk! We are using MineOS

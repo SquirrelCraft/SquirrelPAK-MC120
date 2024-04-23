@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713019498511
+  last_edited_time = 1713807302953
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c2693614-8de8-4345-bb48-400429337b21-1713019433461] = [groups:][instances:]
+  [loading_requirement_container_meta:664a5ae0-a13b-4eb9-b661-be778a45dacb-1713807608920] = [groups:][instances:]
 }
 
 customization {
@@ -59,89 +59,5 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 8f582d25-e682-4c0d-ac22-acd0b55e8f85-1710803100021
   [loading_requirement_container_meta:8f582d25-e682-4c0d-ac22-acd0b55e8f85-1710803100021] = [groups:][instances:]
-}
-
-element {
-  interactable = false
-  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-song-title.txt
-  source_mode = resource
-  shadow = true
-  scale = 1.0
-  base_color = #FFAA00
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = false
-  auto_line_wrapping = false
-  remove_html_breaks = false
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = a7ff3327-02af-4b99-ae16-d0f3036eda59-1713015758148
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = top-left
-  x = -10
-  y = -29
-  width = 344
-  height = 17
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404
-  [loading_requirement_container_meta:527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404] = [groups:][instances:]
-}
-
-element {
-  interactable = false
-  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-short-name-ane-version.txt
-  source_mode = resource
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = false
-  auto_line_wrapping = false
-  remove_html_breaks = false
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = ea691384-cc29-4daf-bdac-78fd1eed0a0f-1713019436183
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = top-right
-  x = -100
-  y = -19
-  width = 173
-  height = 18
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020
-  [loading_requirement_container_meta:a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020] = [groups:][instances:]
 }
 
