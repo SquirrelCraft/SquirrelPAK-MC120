@@ -277,6 +277,10 @@
 			[general.entries.wood_type.farmersdelight]
 				cabinet = true
 
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
+
 		[general.entries.leaves_type]
 
 			[general.entries.leaves_type.mcwfences]
