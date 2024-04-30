@@ -10,7 +10,7 @@
 		#Whether to log admin commands to server log.
 		log_admin_commands = false
 		#Whether the feedback from commands executed by a player should show up in chat. Also affects the default behavior of whether command blocks store their output text.
-		send_command_feedback = false
+		send_command_feedback = true
 		#Whether death messages are put into chat when a player dies. Also affects whether a message is sent to the pet's owner when the pet dies.
 		show_death_messages = true
 
@@ -22,7 +22,7 @@
 		#Whether mobs should drop items and experience orbs.
 		do_mob_loot = true
 		#Whether blocks should have drops.
-		do_tile_drops = false
+		do_tile_drops = true
 		#Whether block loot is dropped by all blocks (false) or randomly (true) depending on how far the block is from the center of a mob explosion (e.g. Creeper explosion).
 		mob_explosion_drop_decay = true
 		#Whether block loot is dropped by all blocks (false) or randomly (true) depending on how far the block is from the center of a TNT explosion.
@@ -102,6 +102,8 @@
 		water_source_conversion = true
 		#Non Vanilla gamerule: 'doSeasonCycle'
 		do_season_cycle = true
+		#Non Vanilla gamerule: 'tfEnforcedProgression'
+		tf_enforced_progression = true
 
 	[gamerules.spawning]
 		#Whether phantoms can spawn in the nighttime.

@@ -1,11 +1,14 @@
-# SquirrelPAK 20LT - Low Tech 
+SquirrelPAK 20CA - Creative Adventure
 
-```
-The Low Tech SquirrelCraft's release of its line of forge mod packs for 1.20 is here. Spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
  
-In this release, SquirrelPAK 20LT - Low Tech is built on our SquirrelPAK 20VP - Almost Vanilla PAK but starts to add some low tech mods to the mix. Its not a high tech mod PAK but just enough tech to make it sparkle. Like the eyes of that squirrel that almost ran you off the road by running in front of you the other day. It bridges the gap between the super high tech mods and the vanilla and plus PAKS.
 
-  
+What do you get when you cross SquirrelCraft's Medieval Everquesting mod PAK with the Create mod? You get the latest from the half crazed squirrels at SquirrelHQ. Introducing Crerative Adventure!  Spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
+ 
+In this release, SquirrelPAK 20CA - Crerative Adventure is built on our SquirrelPAK 20LT - Low Tech PAK then we add a large sppon full of Create mod,a dash of adventure mods from our PAK Medieval Everquesting and few sprinkles of Create add-ons like Create: Liquid Fuel and Create: The Factory Must Grow
+
+ This PAK aims at highlighting the Create mod the SquirrelCraft way, less fuss and more squirrels and loose nuts.  
+
+
 Issues/Questions/Documentation/Source
 
  
@@ -16,15 +19,15 @@ https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues
  
 
 Questions: Ask it on our discussions on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20lt
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/discussions/categories/20ca
 
  
 Docs: Check out the Wiki
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Low-Tech
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/wiki/Creative-Adventure
 
  
 Source: Source code can be found on GitHub
-https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/LT
+https://github.com/SquirrelCraft/SquirrelPAK-MC20/tree/CA
  
  
  
@@ -33,5 +36,3 @@ Connect with us on Social Media!
 
 https://squirrelcraft.live
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-```
-

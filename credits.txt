@@ -1,15 +1,16 @@
 ================================================================================
-SquirrelPAK 20VP - Vanilla Plus!
+SquirrelPAK 20CA - Creative Adventure
 Credits
 ================================================================================
 
-Music Used in this PAK:
 
- Main Menu
-  Eric Skiff - Arpanauts - Resistor Anthems
-  Available at http://EricSkiff.com/music
-  Licensed under Creative Commons: By Attribution 4.0
-  https://creativecommons.org/licenses/by/4.0/
+Main Menu Music
+  Main Theme (Adventures of Flying Jack) by Alexander Nakarada (www.creatorchords.com)
+  Licensed to use by Alexander Nakarada via Patreon
+
+Main Menu Pano Screenshot 
+  Bandit Towers from Mod When Dungeons Arise - Forge!
+  https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
 
 
 Logo Credits:
@@ -22,9 +23,25 @@ Logo Credits:
   https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
 
 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+SquirrelCraft would like to thank the below mods for allow us
+to use the mod in this PAK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-= Pams HarvestCraft =-=-=-=-=-=-=-=-=-=-
+When Dungeons Arise - Forge!
+https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Towns and Towers by Biban_Auriu
+https://www.curseforge.com/minecraft/mc-mods/towns-and-towers
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Pams HarvestCraft
 
 The Mod Pams HarvestCraft used under licenses mod authors info is below
 

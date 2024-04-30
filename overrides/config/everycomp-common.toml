@@ -33,17 +33,57 @@
 				zundatofucake = true
 				soycheese_tart = true
 
+			[general.types.cake.createaddition]
+				chocolate_cake = true
+				honey_cake = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.domum_ornamentum]
 				cactus = true
 				cactus_extra = true
 
+			[general.types.wood_type.twilightforest]
+				twilight_oak = true
+				canopy = true
+				mangrove = true
+				dark = true
+				time = true
+				transformation = true
+				mining = true
+				sorting = true
+
+			[general.types.wood_type.undergarden]
+				smogstem = true
+				wigglewood = true
+				grongle = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.tofucraft]
 				tofu = true
 				apricot = true
+
+			[general.types.leaves_type.twilightforest]
+				beanstalk = true
+				thorn = true
+				twilight_oak = true
+				canopy = true
+				mangrove = true
+				dark = true
+				rainbow_oak = true
+				time = true
+				transformation = true
+				mining = true
+				sorting = true
+
+			[general.types.leaves_type.twilightdelight]
+				ironwood = true
+
+			[general.types.leaves_type.undergarden]
+				smogstem = true
+				wigglewood = true
+				grongle = true
 
 	#Disables specific entries
 	[general.entries]
@@ -225,6 +265,16 @@
 
 			[general.entries.wood_type.farmersdelight]
 				cabinet = true
+
+			[general.entries.wood_type.twilightforest]
+				banister = true
+				hollow_log_climbable = true
+				hollow_log_horizontal = true
+				hollow_log_vertical = true
+
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
 
 		[general.entries.leaves_type]
 

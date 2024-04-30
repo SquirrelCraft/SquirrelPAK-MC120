@@ -1,3 +1,113 @@
+SquirrelPAK 20CA - Creative Adventure v1.0.0-1.20.01
+=====================================================
+SquirrelPAK 20CA Release 1.0.0
+File Version 1.0.0-1.20.01
+
+Required Forge Version: 47.2.20
+=====================================================
+
+ 
+Creative Adventure Starts NOW! 
+
+Summary:
+First Release!
+ 
+-------------------------------------------
+ Mod Changes from 20LT v1.0.0-1.20.01
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20CA - Creative Adventure v1.0.0-1.20.01          |  SquirrelPAK 20LT - Low Tech v1.0.0-1.20.01
+AdFinders-1.20.1-9.1.6.0-build.0424.jar                        | AdFinders-1.20.1-9.1.5.0-build.0398.jar
+AdLods-1.20.1-8.1.2.0-build.0424.jar                           | AdLods-1.20.1-8.1.1.1-build.0365.jar
+Clumps-forge-1.20.1-12.0.0.4.jar                               | Clumps-forge-1.20.1-12.0.0.3.jar
+CreateTweaker-forge-1.20.1-4.0.9.jar                           < 
+DungeonsArise-1.20.x-2.1.58-release.jar                        < 
+FramedBlocks-9.2.2.jar                                         | FramedBlocks-9.2.1.jar
+Searchables-forge-1.20.1-1.0.3.jar                             | Searchables-forge-1.20.1-1.0.2.jar
+The_Undergarden-1.20.1-0.8.14.jar                              < 
+TofuCraftReload-1.20.1-5.10.5.4.jar                            | TofuCraftReload-1.20.1-5.10.5.2.jar
+Towns-and-Towers-1.12-Fabric+Forge.jar                         < 
+UndergroundVillages-forge-1.20.1-2.1.0.jar                     < 
+almostunified-forge-1.20.1-0.9.3.jar                           | almostunified-forge-1.20.1-0.9.2.jar
+amendments-1.20-1.1.22.jar                                     | amendments-1.20-1.1.18.jar
+blockui-1.20.1-1.0.156-RELEASE.jar                             | blockui-1.20.1-0.0.98-ALPHA.jar
+caelus-forge-3.2.0+1.20.1.jar                                  | caelus-forge-3.1.0+1.20.jar
+chalk-1.20.1-1.6.4.jar                                         | chalk-1.20.1-1.6.3.jar
+chestedcompanions-1.3.1-1.20.1-FORGE.jar                       < 
+collective-1.20.1-7.54.jar                                     | collective-1.20.1-7.40.jar
+cookingforblockheads-forge-1.20.1-16.0.4.jar                   | cookingforblockheads-forge-1.20.1-16.0.3.jar
+create-1.20.1-0.5.1.f.jar                                      < 
+create_jetpack-forge-4.2.1.jar                                 < 
+createaddition-1.20.1-1.2.3.jar                                < 
+createliquidfuel-2.1.1-1.20.1.jar                              < 
+cristellib-1.1.5-forge.jar                                     < 
+curios-forge-5.9.0+1.20.1.jar                                  | curios-forge-5.7.2+1.20.1.jar
+customizableelytra-forge-2.1.2+1.20.jar                        | customizableelytra-forge-2.1.1+1.20.jar
+cyclepaintings-1.20.1-3.5.jar                                  < 
+dimdungeons-191-forge-1.20.1.jar                               | domum_ornamentum-1.20-1.0.110-RELEASE-universal.jar
+domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar          < 
+dragonmounts-1.20.1-1.2.1-beta.jar                             < 
+everycomp-1.20-2.6.53.jar                                      | everycomp-1.20-2.6.50.jar
+extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar                   < 
+illager_trader-2.0.0.jar                                       < 
+immersive_aircraft-0.7.5+1.20.1-forge.jar                      < 
+journeymap-1.20.1-5.9.21-forge.jar                             | journeymap-1.20.1-5.9.20-forge.jar
+justmobheads-1.20.1-7.7.jar                                    | justmobheads-1.20.1-7.6.jar
+justplayerheads-1.20.1-4.0.jar                                 | justplayerheads-1.20.1-3.6.jar
+leaky-1.20.1-2.0.jar                                           | leaky-1.20.1-1.7.jar
+luggage-1.20-1.6.2.jar                                         < 
+mcw-paintings-1.0.5-1.20.1forge.jar                            < 
+monolib-forge-1.20.1-1.1.0.jar                                 | monolib-forge-1.20.1-1.0.0.jar
+oceanvillagertrader-1.0.0.jar                                  < 
+rechiseled-1.1.6-forge-mc1.20.jar                              | rechiseled-1.1.5c-forge-mc1.20.jar
+secret_paintings-1.0.0.jar                                     < 
+sophisticatedbackpacks-1.20.1-3.20.5.1044.jar                  < 
+sophisticatedcore-1.20.1-0.6.21.609.jar                        < 
+starterstructure-1.20.1-3.6.jar                                | starterstructure-1.20.1-3.4.jar
+tfmg-0.8.0b-1.20.1.jar                                         < 
+twilightdelight-2.0.11.jar                                     < 
+twilightforest-1.20.1-4.3.2145-universal.jar                   < 
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20CA-v1.0.0-1.20.01-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC20/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20LT - Low Tech v1.0.0-1.20.01
 =====================================================
 SquirrelPAK 20LT Release 1.0.0
