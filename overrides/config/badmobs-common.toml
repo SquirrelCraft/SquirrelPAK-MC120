@@ -5816,3 +5816,61 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+	#Options for the securitycraft mod.
+	[betterminecarts.securitycraft]
+
+		#Spawning options for securitycraft:bouncingbetty
+		[betterminecarts.securitycraft.bouncingbetty]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for securitycraft:imsbomb
+		[betterminecarts.securitycraft.imsbomb]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for securitycraft:securitycamera
+		[betterminecarts.securitycraft.securitycamera]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for securitycraft:sentry
+		[betterminecarts.securitycraft.sentry]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for securitycraft:bullet
+		[betterminecarts.securitycraft.bullet]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
