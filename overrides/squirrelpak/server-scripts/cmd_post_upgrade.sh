@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK LP20 Only
+#     Internal Server Script - SquirrelPAK 20ME Only
 #     Post install script for server
 #     cmd_post_upgrade.sh
 #     v1.1
@@ -26,7 +26,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK LP20 Only"
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20ME Only"
 echo "  (cmd_post_upgrade.sh) - v1.1 - Licnesed under GNU GPLv3"
 echo "  Post install script for server "
 echo " ----------------------------------------------------------------------------"
