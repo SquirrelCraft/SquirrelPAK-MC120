@@ -1,23 +1,22 @@
-SquirrelPAK 20AV - Almost Vanilla v2.0.0-1.20.1
+SquirrelPAK 20AV - Almost Vanilla v2.1.0-1.20.1
 =====================================================
-SquirrelPAK 20AV Release 2.0.0
-File Version 2.0.0-1.20.1
+SquirrelPAK 20AV Release 2.1.0
+File Version 2.1.0-1.20.1
 
 Required Forge Version: 47.2.20
 =====================================================
 
  
-New coat of paint! 
+Just another update
 
 Summary:
-Updated mods that had updates, including FancyMenu.
-Had to re-create all the menus, so we did them all,
-also created some automation for build scripts
+Updated mods that needed updates, and fixed
+some menu issues from the menu update.
 
-Replaced the Pano mod with Panoramica [Forge]
+Fixed build and server scripts 
  
 -------------------------------------------
- Mod Changes from v1.1.0-1.20.1
+ Mod Changes from v2.0.0-1.20.1
 -------------------------------------------
  
  
@@ -28,31 +27,14 @@ Replaced the Pano mod with Panoramica [Forge]
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 20AV - Almost Vanilla v2.0.0-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v1.1.0-1.20.1
-CraftTweaker-forge-1.20.1-14.0.38.jar                          | CraftTweaker-forge-1.20.1-14.0.36.jar
-Iceberg-1.20.1-forge-1.1.21.jar                                | Iceberg-1.20.1-forge-1.1.18.jar
-PuzzlesLib-v8.1.18-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.17-1.20.1-Forge.jar
-areas-1.20.1-5.6.jar                                           | areas-1.20.1-5.3.jar
-balm-forge-1.20.1-7.2.2.jar                                    | balm-forge-1.20.1-7.2.1.jar
-collective-1.20.1-7.40.jar                                     | collective-1.20.1-7.36.jar
-connectivity-1.20.1-5.5.jar                                    | connectivity-1.20.1-4.9.jar
-cupboard-1.20.1-2.6.jar                                        | cupboard-1.20.1-2.3.jar
-drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar                  | drippyloadingscreen_forge_2.2.4_MC_1.20.1.jar
-fancymenu_forge_3.1.4_MC_1.20.1.jar                            | fancymenu_forge_2.14.13_MC_1.20.1.jar
-ftb-chunks-forge-2001.2.7.jar                                  | fm_audio_extension_forge_1.1.1_MC_1.20.jar
-                                                               > ftb-chunks-forge-2001.2.5.jar
-ftb-teams-forge-2001.2.0.jar                                   | ftb-teams-forge-2001.1.4.jar
-gottagofast-1.20.x-lexforge-2.0.1.jar                          < 
-journeymap-1.20.1-5.9.20-forge.jar                             | journeymap-1.20.1-5.9.18-forge.jar
-panoramica_forge_1.2.1_MC_1.19-1.19.2.jar                      | polylib-forge-2000.0.3-build.97.jar
-polylib-forge-2000.0.3-build.133.jar                           | smoothchunk-1.20.1-3.5.jar
-smoothchunk-1.20.1-3.6.jar                                     | spanorama-1.5.1.jar
-starterkit-1.20.1-6.5.jar                                      | starterkit-1.20.1-5.5.jar
-theoneprobe-1.20.1-10.0.2.jar                                  | theoneprobe-1.20.1-10.0.1.jar
+ SquirrelPAK 20AV - Almost Vanilla v2.1.0-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v2.0.0-1.20.1
+Clumps-forge-1.20.1-12.0.0.4.jar                               | Clumps-forge-1.20.1-12.0.0.3.jar
+collective-1.20.1-7.42.jar                                     | collective-1.20.1-7.40.jar
+fancymenu_forge_3.1.5_MC_1.20.1.jar                            | fancymenu_forge_3.1.4_MC_1.20.1.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/20AV-v2.0.0-1.20.1-ModsList.txt
+squirrelpak/versions/20AV-v2.1.0-1.20.1-ModsList.txt
 -------------------------------------------
 
  

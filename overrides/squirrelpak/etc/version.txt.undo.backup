@@ -4,7 +4,7 @@
 PAK_NAME_INIT_PFX=20
 PAK_NAME_INIT=AV
 
-PAK_RELEASE=1.0.2
+PAK_RELEASE=1.1.0
 PAK_MC_VER=1.20.1
 
 PAK_DESC="Almost Vanilla"
@@ -19,7 +19,7 @@ PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
 PAK_VER="$PAK_RELEASE-$PAK_MC_VER"
 
 # Legacy Var
-PAK_Menu_Beta_Text=""
+PAK_Menu_Beta_Text="&aSquirrelPAK LP20 - v$PAK_RELEASE "
 
 # - - - - Fancy Menu Vars - - - - -
 PAK_Menu3_Name="$PAK_DESC"
