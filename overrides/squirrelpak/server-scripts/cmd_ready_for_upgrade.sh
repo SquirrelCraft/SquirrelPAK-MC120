@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK LP20 Only
+#     Internal Server Script - SquirrelPAK 20VP Only
 #     Backups server files and ready the server for a mod update
 #     cmd_ready_for_upgrade.sh
 #     v1.1
@@ -26,7 +26,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK LP20 Only"
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20VP Only"
 echo "  (cmd_ready_for_upgrade.sh) - v1.1 - Licnesed under GNU GPLv3"
 echo "  Backups server files and ready the server for a mod update "
 echo " ----------------------------------------------------------------------------"

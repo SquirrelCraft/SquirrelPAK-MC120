@@ -17,19 +17,12 @@ customization {
   orientation = top-left
   loop = true
   channel = music
-<<<<<<< HEAD
-  audio_source:83d07edc-a3b2-48d8-8522-41fe8d318cee1652037664863 = config/fancymenu/music/Behind the waterfall.ogg;EXTERNAL_LOCAL;25;0
-=======
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   x = 114
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = fe8e3f4b-4076-4353-b293-318b58f076f11652037657469
   y = 71
-<<<<<<< HEAD
-=======
   audio_source:6908e0b1-5f51-4848-aa2b-9870472f33811691705474525 = config/fancymenu/music/Underclocked.ogg;EXTERNAL_LOCAL;25;0
->>>>>>> 0d096b0 (SquirrelPAK 20VP - Vanilla Plus v1.0.0-1.20.1)
   once_per_session = false
   height = 50
 }
