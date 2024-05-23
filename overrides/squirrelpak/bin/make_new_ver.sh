@@ -3,7 +3,7 @@
 #     Internal script
 #     Creates new version
 #     make_new_ver.sh
-#     v2.0
+#     v2.1
 # 
 
 #     make_new_ver.sh - Creates a new version
@@ -25,7 +25,7 @@
  
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Make New Version Script v2.0"
+echo "  SquirrelPAK Make New Version Script v2.1"
 echo "  (ver.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -100,6 +100,11 @@ if [ ! -f "$PAK_Export_Timestamp_File" ]; then
 	exit 1
 fi
 
+echo " "
+echo " Checks complete, ready to create new version!"
+printf "%s " "Press enter to continue"
+read ans
+echo " "
 
 echo " - Remove undo backup file"
 if [ -f $PAK_etc_dir/version.txt.undo.backup ]; then
@@ -117,10 +122,22 @@ cp -v $PAK_etc_dir/version.txt $PAK_etc_dir/version.txt.undo
 echo "   done!"
 echo " "
 echo " - Create new version"
-echo " - Update version numbers via nano/vim"
-nano $PAK_etc_dir/version.txt
-echo "   done"
+echo "   - Update version.txt numbers via nano/vim"
 echo " "
+printf "%s " "Press enter to continue"
+read ans
+nano $PAK_etc_dir/version.txt
+echo "     done"
+echo " "
+
+echo "   - Update bcc-common.toml version via nano/vim"
+echo " "
+printf "%s " "Press enter to continue"
+read ans
+nano ./config/bcc-common.toml
+echo "     done"
+echo " "
+
 if [ -f $PAK_Export_Timestamp_File.backup ]; then
 	echo " Found $PAK_Export_Timestamp_File.backup"
 	echo " Remove it!"

@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK LP20 Only"
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20LT Only"
 echo "  (cmd_cleanup_backups.sh) - v1.1 - Licnesed under GNU GPLv3"
 echo "  Removes backed up files created by cmd_ready_for_upgrade.sh "
 echo " ----------------------------------------------------------------------------"

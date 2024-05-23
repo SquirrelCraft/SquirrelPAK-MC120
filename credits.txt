@@ -1,5 +1,5 @@
 ================================================================================
-SquirrelPAK 20VP - Vanilla Plus!
+SquirrelPAK 20LT - Low Tech
 Credits
 ================================================================================
 
@@ -21,6 +21,10 @@ Logo Credits:
   https://www.minecraftskins.com/profile/4053405/bigoodie
   https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
 
+ Matrix Base 
+  Isaiah van Hunen - https://www.flickr.com/photos/isaiah115/7301506118
+  License: CC BY-SA 2.0 DEED
+  https://creativecommons.org/licenses/by-sa/2.0/
 
 
 
