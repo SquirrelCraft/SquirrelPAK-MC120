@@ -1,3 +1,106 @@
+SquirrelPAK LP20 - Lets Play MC20! v6.0.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 6.0.0
+File Version 6.0.0-1.20.1
+
+Required Forge Version: 47.2.32
+=====================================================
+
+ 
+The Technology is Arising! 
+
+Summary:
+v6.0 here and we have high tech storage!
+
+Also updated all mods that had updates. 
+ 
+-------------------------------------------
+ Mod Changes from v5.3.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v6.0.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v5.3.0-1.20.1
+AdChimneys-1.20.1-10.1.6.0-build.0496.jar                      | AdChimneys-1.20.1-10.1.5.1-build.0365.jar
+CraftTweaker-forge-1.20.1-14.0.40.jar                          | CraftTweaker-forge-1.20.1-14.0.38.jar
+ExtraDisks-1.20.1-3.0.2.jar                                    < 
+FastLeafDecay-32.jar                                           | FastLeafDecay-31.jar
+ForgeEndertech-1.20.1-11.1.3.1-build.0496.jar                  | ForgeEndertech-1.20.1-11.1.3.0-build.0398.jar
+LeonsOceanTrader+M.1.20.1+ForM.2.0.0.jar                       < 
+LeonsSecretPaintings+M.1.20.1+ForM.2.0.0.jar                   < 
+PuzzlesLib-v8.1.20-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.19-1.20.1-Forge.jar
+RSInfinityBooster-1.20.1-1.0+32.jar                            < 
+RS_CraftingMonitorInGrid-1.20.1-4.0.jar                        < 
+StructureCompass-1.20.1-2.0.9.jar                              | StructureCompass-1.20.1-2.0.8.jar
+TaxOceanVillager+M.1.20.1+ForM+3.1.1.jar                       | TaxOceanVillager+M.1.20.1+ForM+3.1.0.jar
+ars_nouveau-1.20.1-4.11.0-all.jar                              | ars_nouveau-1.20.1-4.10.0-all.jar
+cabletiers-1.20.1-1.2.2.jar                                    < 
+curios-forge-5.9.1+1.20.1.jar                                  | curios-forge-5.9.0+1.20.1.jar
+lostcities-1.20-7.1.7.jar                                      | lostcities-1.20-7.1.6.jar
+moonlight-1.20-2.11.31-forge.jar                               | moonlight-1.20-2.11.28-forge.jar
+                                                               > oceanvillagertrader-1.0.0.jar
+refinedcooking-4.0.0.jar                                       < 
+refinedcrafterproxy-4.1.2.jar                                  < 
+refinedstorage-1.12.4.jar                                      < 
+refinedstorageaddons-0.10.0.jar                                < 
+refstoragemanual-1.0.0.jar                                     < 
+rsrequestify-1.20.1-2.3.3.jar                                  | sawmill-1.20-1.3.13.jar
+sawmill-1.20-1.3.15.jar                                        < 
+sebastrnlib-4.0.0.jar                                          | secret_paintings-1.0.0.jar
+universalgrid-1.20.1-1.1.jar                                   < 
+xnet-1.20-6.1.2.jar                                            | xnet-1.20-6.1.1.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v6.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ Pinned Mods
+ Mods listed below need to stay at this version due to crash
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ ftb-teams-forge-2001.2.0 - Needs newer ver of library
+ ftb-library-forge-2001.1.5 - new ver crashes game
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v5.3.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 5.3.0

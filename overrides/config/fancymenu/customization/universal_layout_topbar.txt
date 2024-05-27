@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713807812026
+  last_edited_time = 1716751537372
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c756eb57-7f2e-4f41-a415-c610119d918d-1713807793185] = [groups:][instances:]
+  [loading_requirement_container_meta:5d5b6049-d12b-4d69-ab3c-30d068f4885e-1716751514069] = [groups:][instances:]
 }
 
 customization {
@@ -129,5 +129,48 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020
   [loading_requirement_container_meta:a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = RAM Used: {"placeholder":"usedram"}MB
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFF00FF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = be0ee258-9d7a-4fb9-a68f-7346672a400c-1716751518723
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 1f7a375b-af3d-4a10-9477-4ecb8de92ee7-1713807214378
+  x = 429
+  y = -11
+  width = 102
+  height = 15
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403
+  [loading_requirement_container_meta:a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403] = [groups:][instances:]
 }
 

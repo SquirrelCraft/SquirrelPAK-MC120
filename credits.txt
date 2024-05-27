@@ -6,7 +6,7 @@ Credits
 Music Used in this PAK:
 
  Main Menu
-  Eric Skiff - Digital Native - Resistor Anthems
+  Eric Skiff - Come and Find Me - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
@@ -22,9 +22,11 @@ Logo Credits:
   https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
 
 
+Special thanks to the follow mod authors for allowing me to use their mod
+in this PAK!
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-= Pams HarvestCraft =-=-=-=-=-=-=-=-=-=-
+=-=-=-= Pams HarvestCraft =-=-=-=
 
 The Mod Pams HarvestCraft used under licenses mod authors info is below
 
@@ -46,5 +48,24 @@ Twitter: https://twitter.com/matrexsvigil
 Chat with other HarvestCraft fans!
 Discord: https://discord.gg/hpP79GaPGc
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+- - - - - - - -
+
+=-=-=-= When Dungeons Arise - Forge! =-=-=-=
+Thanks to Aureljz (https://www.curseforge.com/members/aureljz/projects)
+
+Project on CurseForge 
+https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
+- - - - - - - -
+
+
+=-=-=-= Towns and Towers =-=-=-=
+Thanks to Biban_Auriu (https://www.curseforge.com/members/biban_auriu/projects)
+
+Project on CurseForge 
+https://www.curseforge.com/minecraft/mc-mods/towns-and-towers
+- - - - - - - -
+
+
+
 
