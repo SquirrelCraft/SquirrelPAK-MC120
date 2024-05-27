@@ -1,3 +1,82 @@
+SquirrelPAK 20AV - Almost Vanilla v2.2.0-1.20.1
+=====================================================
+SquirrelPAK 20AV Release 2.2.0
+File Version 2.2.0-1.20.1
+
+Required Forge Version: 47.2.32
+=====================================================
+
+ 
+House Keeping 
+
+Summary:
+Updated mods that needed updated, bumped the ver of forge required to 47.2.32.
+Also fixed some menu issues and some links in build files to point to the
+new GitHub repo
+
+ 
+-------------------------------------------
+ Mod Changes from v2.1.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20AV - Almost Vanilla v2.2.0-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v2.1.0-1.20.1
+CraftTweaker-forge-1.20.1-14.0.40.jar                          | CraftTweaker-forge-1.20.1-14.0.38.jar
+MouseTweaks-forge-mc1.20.1-2.25.1.jar                          | MouseTweaks-forge-mc1.20-2.25.jar
+PuzzlesLib-v8.1.20-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.18-1.20.1-Forge.jar
+Searchables-forge-1.20.1-1.0.3.jar                             | Searchables-forge-1.20.1-1.0.2.jar
+collective-1.20.1-7.60.jar                                     | collective-1.20.1-7.42.jar
+fancymenu_forge_3.2.3_MC_1.20.1.jar                            | fancymenu_forge_3.1.5_MC_1.20.1.jar
+journeymap-1.20.1-5.9.21-forge.jar                             | journeymap-1.20.1-5.9.20-forge.jar
+leaky-1.20.1-2.1.jar                                           | leaky-1.20.1-1.7.jar
+polylib-forge-2000.0.3-build.143.jar                           | polylib-forge-2000.0.3-build.133.jar
+stackrefill-1.20.1-4.4.jar                                     | stackrefill-1.20.1-4.2.jar
+starterkit-1.20.1-6.7.jar                                      | starterkit-1.20.1-6.5.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20AV-v2.2.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ Pinned Mods
+ Mods listed below need to stay at this version due to crash
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ ftb-teams-forge-2001.2.0 - Needs newer ver of library
+ ftb-library-forge-2001.1.5 - new ver crashes game
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20AV - Almost Vanilla v2.1.0-1.20.1
 =====================================================
 SquirrelPAK 20AV Release 2.1.0
