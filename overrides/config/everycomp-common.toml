@@ -33,6 +33,10 @@
 				zundatofucake = true
 				soycheese_tart = true
 
+			[general.types.cake.createaddition]
+				chocolate_cake = true
+				honey_cake = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.domum_ornamentum]
@@ -225,6 +229,10 @@
 
 			[general.entries.wood_type.farmersdelight]
 				cabinet = true
+
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
 
 		[general.entries.leaves_type]
 

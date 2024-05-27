@@ -1,12 +1,12 @@
 ================================================================================
-SquirrelPAK 20LT - Low Tech
+SquirrelPAK 20TA - Technology Arising
 Credits
 ================================================================================
 
 Music Used in this PAK:
 
  Main Menu
-  Eric Skiff - Arpanauts - Resistor Anthems
+  Eric Skiff - Come and Find Me - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
