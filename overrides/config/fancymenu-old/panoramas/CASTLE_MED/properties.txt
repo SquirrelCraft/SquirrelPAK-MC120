@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = CASTLE_MED
-  speed = 1.0
-  fov = 82.0
-  angle = 15.0
-}
