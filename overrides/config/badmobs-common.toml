@@ -5874,3 +5874,226 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+	#Options for the pneumaticcraft mod.
+	[betterminecarts.pneumaticcraft]
+
+		#Spawning options for pneumaticcraft:drone
+		[betterminecarts.pneumaticcraft.drone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_drone
+		[betterminecarts.pneumaticcraft.logistics_drone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:harvesting_drone
+		[betterminecarts.pneumaticcraft.harvesting_drone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:guard_drone
+		[betterminecarts.pneumaticcraft.guard_drone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:collector_drone
+		[betterminecarts.pneumaticcraft.collector_drone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:amadrone
+		[betterminecarts.pneumaticcraft.amadrone]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:programmable_controller
+		[betterminecarts.pneumaticcraft.programmable_controller]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:vortex
+		[betterminecarts.pneumaticcraft.vortex]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:micromissile
+		[betterminecarts.pneumaticcraft.micromissile]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:tumbling_block
+		[betterminecarts.pneumaticcraft.tumbling_block]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:ring
+		[betterminecarts.pneumaticcraft.ring]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:crop_support
+		[betterminecarts.pneumaticcraft.crop_support]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:spawner_agitator
+		[betterminecarts.pneumaticcraft.spawner_agitator]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:heat_frame
+		[betterminecarts.pneumaticcraft.heat_frame]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:transfer_gadget
+		[betterminecarts.pneumaticcraft.transfer_gadget]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_frame_active_provider
+		[betterminecarts.pneumaticcraft.logistics_frame_active_provider]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_frame_passive_provider
+		[betterminecarts.pneumaticcraft.logistics_frame_passive_provider]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_frame_storage
+		[betterminecarts.pneumaticcraft.logistics_frame_storage]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_frame_default_storage
+		[betterminecarts.pneumaticcraft.logistics_frame_default_storage]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for pneumaticcraft:logistics_frame_requester
+		[betterminecarts.pneumaticcraft.logistics_frame_requester]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
