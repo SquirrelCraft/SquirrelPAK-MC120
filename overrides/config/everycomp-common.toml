@@ -49,6 +49,9 @@
 				tofu = true
 				apricot = true
 
+			[general.types.leaves_type.better_rubber]
+				rubber = true
+
 	#Disables specific entries
 	[general.entries]
 
