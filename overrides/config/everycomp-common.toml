@@ -43,11 +43,23 @@
 				cactus = true
 				cactus_extra = true
 
+			[general.types.wood_type.thermal]
+				rubberwood = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.tofucraft]
 				tofu = true
 				apricot = true
+
+			[general.types.leaves_type.thermal]
+				rubberwood = true
+
+			[general.types.leaves_type.integrateddynamics]
+				menril = true
+
+			[general.types.leaves_type.better_rubber]
+				rubber = true
 
 	#Disables specific entries
 	[general.entries]

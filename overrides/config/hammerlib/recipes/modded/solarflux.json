@@ -34,7 +34,8 @@
         "solarflux:dispersive_upgrade": true,
         "solarflux:block_charging_upgrade": true,
         "solarflux:furnace_upgrade": true,
-        "solarflux:capacity_upgrade": true
+        "solarflux:capacity_upgrade": true,
+        "solarflux:ae2/energy_upgrade": true
     }},
     "unregistered": {}
 }
