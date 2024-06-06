@@ -6,7 +6,7 @@ Credits
 Music Used in this PAK:
 
  Main Menu
-  Eric Skiff - Come and Find Me - Resistor Anthems
+  Eric Skiff - Come and Find Me B Mix - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
@@ -20,6 +20,11 @@ Logo Credits:
  Network Squirrel skin inspired by the work by bigoodie
   https://www.minecraftskins.com/profile/4053405/bigoodie
   https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
+
+ Matrix Base 
+  Isaiah van Hunen - https://www.flickr.com/photos/isaiah115/7301506118
+  License: CC BY-SA 2.0 DEED
+  https://creativecommons.org/licenses/by-sa/2.0/
 
 
 Special thanks to the follow mod authors for allowing me to use their mod

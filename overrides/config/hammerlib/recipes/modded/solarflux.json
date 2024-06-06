@@ -41,7 +41,8 @@
         "solarflux:twilightforest/twilight_cell_1": true,
         "solarflux:twilightforest/twilight_cell_2": true,
         "solarflux:solar_panels/twilightforest/fiery": true,
-        "solarflux:solar_panels/twilightforest/carminite": true
+        "solarflux:solar_panels/twilightforest/carminite": true,
+        "solarflux:ae2/energy_upgrade": true
     }},
     "unregistered": {}
 }

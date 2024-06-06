@@ -46,6 +46,9 @@
 			[general.types.wood_type.ars_nouveau]
 				archwood = true
 
+			[general.types.wood_type.thermal]
+				rubberwood = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.twilightforest]
@@ -81,6 +84,12 @@
 
 			[general.types.leaves_type.better_rubber]
 				rubber = true
+
+			[general.types.leaves_type.thermal]
+				rubberwood = true
+
+			[general.types.leaves_type.integrateddynamics]
+				menril = true
 
 		[general.types.cake]
 

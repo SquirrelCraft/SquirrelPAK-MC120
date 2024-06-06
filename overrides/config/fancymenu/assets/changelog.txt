@@ -1,23 +1,19 @@
-SquirrelPAK LP20 - Lets Play MC20! v8.0.0-1.20.1
+SquirrelPAK LP20 - Lets Play MC20! v9.0.0-1.20.1
 =====================================================
-SquirrelPAK LP20 Release 8.0.0
-File Version 8.0.0-1.20.1
+SquirrelPAK LP20 Release 9.0.0
+File Version 9.0.0-1.20.1
 
 Required Forge Version: 47.2.32
 =====================================================
 
  
-SIMulated Minecraft Towns 
+Expand your Tech
 
 Summary:
-Mine Colonies are here!
-
-Updated mods that needed updated. Note pinned mods
-can not be updated due to crashes with FancyMenu
+Updated mods that needed updated and added new mods!
  
-
 -------------------------------------------
- Mod Changes from v7.0.0-1.20.1
+ Mod Changes from v8.0.0-1.20.1
 -------------------------------------------
  
  
@@ -28,26 +24,50 @@ can not be updated due to crashes with FancyMenu
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK LP20 - Lets Play MC20! v8.0.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v7.0.0-1.20.1
-AdChimneys-1.20.1-10.1.7.0-build.0514.jar                      | AdChimneys-1.20.1-10.1.6.0-build.0496.jar
-AdFinders-1.20.1-9.1.7.0-build.0514.jar                        | AdFinders-1.20.1-9.1.6.0-build.0424.jar
-Colony4ComputerCraft-1.20.1-2.6.3.jar                          < 
-TofuCraftReload-1.20.1-5.12.1.1.jar                            | TofuCraftReload-1.20.1-5.12.1.0.jar
-blockui-1.20.1-1.0.156-RELEASE.jar                             < 
-everycomp-1.20-2.6.56.jar                                      | everycomp-1.20-2.6.55.jar
-geckolib-forge-1.20.1-4.4.5.jar                                | geckolib-forge-1.20.1-4.4.4.jar
-journeymap-1.20.1-5.9.22-forge.jar                             | journeymap-1.20.1-5.9.21-forge.jar
-minecolonies-1.20.1-1.1.563-RELEASE.jar                        < 
-multipiston-1.20-1.2.43-RELEASE.jar                            < 
-rftoolscontrol-1.20-7.0.2.jar                                  < 
-rftoolsstorage-1.20-5.0.3.jar                                  < 
-sawmill-1.20-1.4.1.jar                                         | sawmill-1.20-1.4.0.jar
-structurize-1.20.1-1.0.733-RELEASE.jar                         < 
-towntalk-1.20.1-1.1.0.jar                                      < 
+ SquirrelPAK LP20 - Lets Play MC20! v9.0.0-1.20.1              |  SquirrelPAK LP20 - Lets Play MC20! v8.0.0-1.20.1
+AE2-Things-1.2.1.jar                                           < 
+AEInfinityBooster-1.20.1-1.0.0+21.jar                          < 
+ExtremeReactors2-1.20.1-2.0.78.jar                             < 
+FramedBlocks-9.3.0.jar                                         | FramedBlocks-9.2.2.jar
+IntegratedCrafting-1.20.1-1.1.7.jar                            | IronJetpacks-1.20.1-7.0.3.jar
+IntegratedDynamics-1.20.1-1.22.0.jar                           < 
+IntegratedTerminals-1.20.1-1.4.14.jar                          < 
+IntegratedTunnels-1.20.1-1.8.28.jar                            < 
+TofuCraftReload-1.20.1-5.12.1.2.jar                            | TofuCraftReload-1.20.1-5.12.1.1.jar
+ZeroCore2-1.20.1-2.1.42.jar                                    < 
+advancednetherite-forge-2.1.3-1.20.1.jar                       | advancednetherite-forge-2.1.0-1.20.1.jar
+ae2wtlib-15.2.3-forge.jar                                      < 
+alchemistry-1.20.1-2.3.4.jar                                   < 
+alchemylib-1.20.1-1.0.30.jar                                   < 
+amendments-1.20-1.2.3.jar                                      | amendments-1.20-1.1.31.jar
+appliedenergistics2-forge-15.2.3.jar                           < 
+balm-forge-1.20.1-7.3.4-all.jar                                | balm-forge-1.20.1-7.2.2.jar
+better_certus_quartz-1.20.1-1.0.8.jar                          < 
+charginggadgets-1.11.0.jar                                     < 
+chemlib-1.20.1-2.0.19.jar                                      < 
+cofh_core-1.20.1-11.0.2.56.jar                                 < 
+cookingforblockheads-forge-1.20.1-16.0.6.jar                   | cookingforblockheads-forge-1.20.1-16.0.4.jar
+createliquidfuel-2.1.1-1.20.1.jar                              < 
+everycomp-1.20-2.6.57.jar                                      | everycomp-1.20-2.6.56.jar
+journeymap-1.20.1-5.9.23-forge.jar                             | journeymap-1.20.1-5.9.22-forge.jar
+kotlinforforge-4.11.0-all.jar                                  | kotlinforforge-4.10.0-all.jar
+lembrary-1.20.1-1.0.1.jar                                      < 
+lemon_core-1.20.1-1.0.49.jar                                   < 
+mutil-1.20.1-6.1.1.jar                                         < 
+redstone_arsenal-1.20.1-8.0.1.24.jar                           < 
+tetra-1.20.1-6.3.0.jar                                         < 
+tetranomicon-1.5.3-1.20.1.jar                                  < 
+tfmg-0.8.0b-1.20.1.jar                                         < 
+thermal_dynamics-1.20.1-11.0.1.23.jar                          < 
+thermal_expansion-1.20.1-11.0.1.29.jar                         < 
+thermal_foundation-1.20.1-11.0.4.68.jar                        < 
+thermal_innovation-1.20.1-11.0.1.23.jar                        < 
+thermal_integration-1.20.1-11.0.1.27.jar                       < 
+thermal_locomotion-1.20.1-11.0.1.19.jar                        < 
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/LP20-v8.0.0-1.20.1-ModsList.txt
+squirrelpak/versions/LP20-v9.0.0-1.20.1-ModsList.txt
 -------------------------------------------
 
  
