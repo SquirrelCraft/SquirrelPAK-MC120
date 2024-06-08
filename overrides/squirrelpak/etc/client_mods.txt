@@ -1,4 +1,4 @@
-# Start client mods for SquirrelPAK 20ET
+# Start client mods for SquirrelPAK 20HT
 # AutoTools (by lukaz)
 autotools*
 # Auudio [Forge] (by Keksuccino)

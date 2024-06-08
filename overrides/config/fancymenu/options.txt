@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/icons/mac_icon.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/icons/icon_32.png';
-S:custom_window_title = 'SquirrelPAK 20ET';
+S:custom_window_title = 'SquirrelPAK 20HT';
 S:custom_window_icon_16 = '/config/fancymenu/assets/icons/icon_16.png';
 
 

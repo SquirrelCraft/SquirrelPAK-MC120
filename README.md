@@ -1,12 +1,14 @@
-# SquirrelPAK 20ET - Expanded Technology
+# SquirrelPAK 20ET - Highest Technology
 
-> Expanded Technology - We took Technology Arising then added a few mods like AE2, Extreme Reactors, Integrated Dynamics, and a few other for a Expanded Menu of Tech for your SquirrelCraft fun!
+> Expanded Technology was not enough. You need the highest of tech, so we delivered! We started with Expanded Technology then added Ad Astra, Mekanism and few other highest tech mods in typical SquirrelCraft style!
 
-We took our SquirrelPAK 20TA - Technology Arising and though that there could be room for expansion. This squirrel feels like more tech is a good thing. So we expanded on our 20TA and created SquirrelPAK 20ET - Expanded Technology! Yet another PAK spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube
+In our next to last PAK we have started off with our SquirrelPAK 20ET - Expanded Technology PAK and reached for the stars! With the Highest of Tech we bring you SquirrelPAK 20ET - Highest Technology another PAK spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube!
+
  
-In this release, SquirrelPAK 20ET - Expanded Technology is built upon our SquirrelPAK 20TA - Technology Arising PAK then we really expanded our tech mods with PneumaticCraft: Repressurized (by desht_08), more RFTools (Control & Storage), AE2 (Applied Energetics), Integrated Dynamics (by kroeser), Tetra (by mickelus) for your tool tech upgrades, Extreme Reactors (by ZeroNoRyouki) for more power options, added more options to the Create & RFTools mods, and finally the one that really expands this PAK, Thermal Expansion (by TeamCoFH). One of this squirrels favorites! For the full mod list in the pack check out the Mod Pack Deps page for up to date list.
+In this next to last release in this series, SquirrelPAK 20ET - Highest Technology built on top of SquirrelPAK 20ET - Expanded Technology we reached for the stars with Ad Astra (by AlexNijjar) and related mods, added high tech end game with Mekanism (by bradyaidanc) and Mekanism add on mods. If that was not enough we tied it with a bow made of mods like LaserIO & Mining Gadgets (by Direwolf20). But the pièce de résistance that will bring you back a long long time ago in a galaxy far far way we added Star Wars Planets Ad Astra! (by TathanDev) and Create Sabers (by Leroidesafk). All this and this PAK feels like the an updated version of the our OG PAK, MC12! For the full mod list in the pack check out the Mod Pack Deps page for up to date list.
 
-This PAK is yet again another arrow in the really full quiver of our MC 1.20.1 PAKS. However it's still not the highest of Tech Mods... again thats soon to come stay tuned for more! But why so many tech PAKs? I wanted to give a range from Low, Med, and Highest of tech mods so you can choose how much tech heat you want to bring to your modded Minecraft adventure. 
+
+This PAK is the last arrow in the full quiver of our MC 1.20.1 PAKS. Or is it? Stay tuned in! But why so many tech PAKs? I wanted to give a range from Low, Med, and Highest of tech mods so you can choose how much tech heat you want to bring to your modded Minecraft adventure. 
 
  
 
@@ -15,7 +17,7 @@ This PAK is yet again another arrow in the really full quiver of our MC 1.20.1 P
 Issues/Questions/Documentation/Source
 
 Can all be found on our GitHub page
-https://github.com/SquirrelCraft/SquirrelPAK-MC120/tree/20ET
+https://github.com/SquirrelCraft/SquirrelPAK-MC120/tree/20HT
  
  
  

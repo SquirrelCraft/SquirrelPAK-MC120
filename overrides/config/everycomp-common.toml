@@ -46,6 +46,11 @@
 			[general.types.wood_type.thermal]
 				rubberwood = true
 
+			[general.types.wood_type.ad_astra]
+				aeronos = true
+				strophar = true
+				glacian = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.tofucraft]
@@ -60,6 +65,9 @@
 
 			[general.types.leaves_type.better_rubber]
 				rubber = true
+
+			[general.types.leaves_type.ad_astra]
+				glacian = true
 
 	#Disables specific entries
 	[general.entries]

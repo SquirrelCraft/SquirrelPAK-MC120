@@ -1,12 +1,12 @@
 ================================================================================
-SquirrelPAK 20ET - Expanded Technology
+SquirrelPAK 20HT - Highest Technology
 Credits
 ================================================================================
 
 Music Used in this PAK:
 
  Main Menu
-  Eric Skiff - Come and Find Me - B mix - Resistor Anthems
+  Eric Skiff - Searching - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
@@ -26,7 +26,15 @@ Logo Credits:
   License: CC BY-SA 2.0 DEED
   https://creativecommons.org/licenses/by-sa/2.0/
 
+ Ad Astra Blocks 
+  https://www.curseforge.com/members/alexnijjar/projects
+  https://www.curseforge.com/minecraft/mc-mods/ad-astra
 
+ Mekanism Blocks by bradyaidanc
+  https://www.curseforge.com/members/bradyaidanc/projects
+  https://www.curseforge.com/minecraft/mc-mods/mekanism
+ 
+ 
 
 =-=-=-=-=-=-=-=-=-=-=-=-= Pams HarvestCraft =-=-=-=-=-=-=-=-=-=-
 
