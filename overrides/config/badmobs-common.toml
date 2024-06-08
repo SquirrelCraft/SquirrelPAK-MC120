@@ -7097,11 +7097,651 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+	#Options for the ad_astra mod.
+	[betterminecarts.ad_astra]
+
+		#Spawning options for ad_astra:lunarian
+		[betterminecarts.ad_astra.lunarian]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:corrupted_lunarian
+		[betterminecarts.ad_astra.corrupted_lunarian]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:star_crawler
+		[betterminecarts.ad_astra.star_crawler]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:martian_raptor
+		[betterminecarts.ad_astra.martian_raptor]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:pygro
+		[betterminecarts.ad_astra.pygro]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:zombified_pygro
+		[betterminecarts.ad_astra.zombified_pygro]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:pygro_brute
+		[betterminecarts.ad_astra.pygro_brute]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:mogler
+		[betterminecarts.ad_astra.mogler]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:zombified_mogler
+		[betterminecarts.ad_astra.zombified_mogler]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:lunarian_wandering_trader
+		[betterminecarts.ad_astra.lunarian_wandering_trader]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:sulfur_creeper
+		[betterminecarts.ad_astra.sulfur_creeper]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:glacian_ram
+		[betterminecarts.ad_astra.glacian_ram]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:tier_1_rocket
+		[betterminecarts.ad_astra.tier_1_rocket]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:tier_2_rocket
+		[betterminecarts.ad_astra.tier_2_rocket]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:tier_3_rocket
+		[betterminecarts.ad_astra.tier_3_rocket]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:tier_4_rocket
+		[betterminecarts.ad_astra.tier_4_rocket]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:tier_1_rover
+		[betterminecarts.ad_astra.tier_1_rover]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:lander
+		[betterminecarts.ad_astra.lander]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:space_painting
+		[betterminecarts.ad_astra.space_painting]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for ad_astra:ice_spit
+		[betterminecarts.ad_astra.ice_spit]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+	#Options for the mekanism mod.
+	[betterminecarts.mekanism]
+
+		#Spawning options for mekanism:flame
+		[betterminecarts.mekanism.flame]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanism:robit
+		[betterminecarts.mekanism.robit]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+	#Options for the mekaweapons mod.
+	[betterminecarts.mekaweapons]
+
+		#Spawning options for mekaweapons:meka_arrow
+		[betterminecarts.mekaweapons.meka_arrow]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+	#Options for the mekanismadditions mod.
+	[betterminecarts.mekanismadditions]
+
+		#Spawning options for mekanismadditions:baby_creeper
+		[betterminecarts.mekanismadditions.baby_creeper]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:baby_enderman
+		[betterminecarts.mekanismadditions.baby_enderman]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:baby_skeleton
+		[betterminecarts.mekanismadditions.baby_skeleton]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:baby_stray
+		[betterminecarts.mekanismadditions.baby_stray]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:baby_wither_skeleton
+		[betterminecarts.mekanismadditions.baby_wither_skeleton]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:balloon
+		[betterminecarts.mekanismadditions.balloon]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismadditions:obsidian_tnt
+		[betterminecarts.mekanismadditions.obsidian_tnt]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+	#Options for the mekanismexplosives mod.
+	[betterminecarts.mekanismexplosives]
+
+		#Spawning options for mekanismexplosives:explosive_condensed_primed
+		[betterminecarts.mekanismexplosives.explosive_condensed_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_breaching_primed
+		[betterminecarts.mekanismexplosives.explosive_breaching_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_exothermic_primed
+		[betterminecarts.mekanismexplosives.explosive_exothermic_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_chemical_primed
+		[betterminecarts.mekanismexplosives.explosive_chemical_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_nuclear_primed
+		[betterminecarts.mekanismexplosives.explosive_nuclear_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_plutonium_primed
+		[betterminecarts.mekanismexplosives.explosive_plutonium_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_polonium_primed
+		[betterminecarts.mekanismexplosives.explosive_polonium_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_antimatter_primed
+		[betterminecarts.mekanismexplosives.explosive_antimatter_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_thermobaric_primed
+		[betterminecarts.mekanismexplosives.explosive_thermobaric_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_smoke_primed
+		[betterminecarts.mekanismexplosives.explosive_smoke_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_shrapnel_primed
+		[betterminecarts.mekanismexplosives.explosive_shrapnel_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_shockwave_primed
+		[betterminecarts.mekanismexplosives.explosive_shockwave_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_supercritical_primed
+		[betterminecarts.mekanismexplosives.explosive_supercritical_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:black_hole
+		[betterminecarts.mekanismexplosives.black_hole]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:entity_cluster_explosive
+		[betterminecarts.mekanismexplosives.entity_cluster_explosive]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:entity_grenade
+		[betterminecarts.mekanismexplosives.entity_grenade]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:projectile_ranged_grenade
+		[betterminecarts.mekanismexplosives.projectile_ranged_grenade]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_debilitation_primed
+		[betterminecarts.mekanismexplosives.explosive_debilitation_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for mekanismexplosives:explosive_emp_primed
+		[betterminecarts.mekanismexplosives.explosive_emp_primed]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+	#Options for the rftoolsdim mod.
+	[betterminecarts.rftoolsdim]
+
+		#Spawning options for rftoolsdim:dimensional_blob_common
+		[betterminecarts.rftoolsdim.dimensional_blob_common]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for rftoolsdim:dimensional_blob_rare
+		[betterminecarts.rftoolsdim.dimensional_blob_rare]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for rftoolsdim:dimensional_blob_legendary
+		[betterminecarts.rftoolsdim.dimensional_blob_legendary]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
 #Options for the ae2 mod.
 [ae2]
 
 	#Spawning options for ae2:tiny_tnt_primed
 	[ae2.tiny_tnt_primed]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the swplanets mod.
+[swplanets]
+
+	#Spawning options for swplanets:laser
+	[swplanets.laser]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the industrialforegoing mod.
+[industrialforegoing]
+
+	#Spawning options for industrialforegoing:trident_entity
+	[industrialforegoing.trident_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for industrialforegoing:launcher_projectile_entity
+	[industrialforegoing.launcher_projectile_entity]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for industrialforegoing:infinity_nuke
+	[industrialforegoing.infinity_nuke]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?

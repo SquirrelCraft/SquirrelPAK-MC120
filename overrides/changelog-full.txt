@@ -1,3 +1,107 @@
+SquirrelPAK LP20 - Lets Play MC20! v10.0.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 10.0.0
+File Version 10.0.0-1.20.1
+
+Required Forge Version: 47.2.32
+=====================================================
+
+ 
+Release the X 
+
+Summary:
+Last major release of LP20
+ 
+-------------------------------------------
+ Mod Changes from v9.0.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v10.0.0-1.20.1             |  SquirrelPAK LP20 - Lets Play MC20! v9.0.0-1.20.1
+Applied-Mekanistics-1.4.2.jar                                  < 
+JustEnoughMekanismMultiblocks-1.20.1-4.2.jar                   < 
+Mekanism-1.20.1-10.4.8.43.jar                                  < 
+MekanismAdditions-1.20.1-10.4.8.43.jar                         < 
+MekanismBridge-Universal-3.1.jar                               < 
+MekanismExplosives-1.20.1-0.3.5.jar                            < 
+MekanismGenerators-1.20.1-10.4.8.43.jar                        < 
+MekanismTools-1.20.1-10.4.8.43.jar                             < 
+MekanismWeapons-1.20.1-1.5.jar                                 < 
+MoreMekanismProcessing-1.20.1-4.0.jar                          < 
+SWPlanets-forge-1.20.1-1.2.3.jar                               < 
+TofuCraftReload-1.20.1-5.12.2.0.jar                            | TofuCraftReload-1.20.1-5.12.1.2.jar
+ad_astra-forge-1.20.1-1.15.5.jar                               < 
+ad_astra_extra_additions-1.20.1-1.1.1.jar                      < 
+adtetra-2.0.0.jar                                              < 
+botarium-forge-1.20.1-2.3.3.jar                                < 
+buildinggadgets2-1.0.7.jar                                     < 
+create_ad_astra_compat-forge-1.20.1-1.0.0.jar                  < 
+create_sabers-1.20.1-1.3.0.jar                                 < 
+everycomp-1.20-2.6.58.jar                                      | everycomp-1.20-2.6.57.jar
+industrial-foregoing-1.20.1-3.5.17.jar                         < 
+laserio-1.6.8.jar                                              < 
+mekanism-ad-astra-ores-1.0.0.jar                               < 
+mininggadgets-1.15.6.jar                                       < 
+resourcefulconfig-forge-1.20.1-2.1.2.jar                       < 
+resourcefullib-forge-1.20.1-2.1.25.jar                         < 
+rftoolsdim-1.20-11.0.7.jar                                     < 
+supplementaries-1.20-2.8.14.jar                                | supplementaries-1.20-2.8.11.jar
+thermal_foundation-1.20.1-11.0.5.69.jar                        | thermal_foundation-1.20.1-11.0.4.68.jar
+xnet-1.20-6.1.3.jar                                            | xnet-1.20-6.1.2.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v10.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ Pinned Mods
+ Mods listed below need to stay at this version due to crash
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ ftb-library-forge-2001.1.5 - new ver crashes game
+ ftb-teams-forge-2001.2.0 - Needs newer ver of library
+ ftb-chunks-forge-2001.2.7 - Needs newer ver of library
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK LP20 - Lets Play MC20! v9.0.0-1.20.1
 =====================================================
 SquirrelPAK LP20 Release 9.0.0
