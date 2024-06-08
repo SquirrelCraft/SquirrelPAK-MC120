@@ -1,11 +1,13 @@
-# SquirrelPAK 20ET - Highest Technology
+# SquirrelPAK 20KS - the Kitchen Sink
 
-> Expanded Technology was not enough. You need the highest of tech, so we delivered! We started with Expanded Technology then added Ad Astra, Mekanism and few other highest tech mods in typical SquirrelCraft style!
+> You want more? Ok, how about all the 20HT mods and then kitchen sink, including the dirty dishes? Granted!
 
-In our next to last PAK we have started off with our SquirrelPAK 20ET - Expanded Technology PAK and reached for the stars! With the Highest of Tech we bring you SquirrelPAK 20ET - Highest Technology another PAK spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube!
+In our last PAK of the LP20 series we have taken the already high tech mod PAK SquirrelPAK 20ET - Highest Technology and then added everything including the kitchen sink!! Introducing the last PAK spawned from our LP20 PAK, the PAK from our Lets Play Series on YouTube! 
 
- 
-In this next to last release in this series, SquirrelPAK 20ET - Highest Technology built on top of SquirrelPAK 20ET - Expanded Technology we reached for the stars with Ad Astra (by AlexNijjar) and related mods, added high tech end game with Mekanism (by bradyaidanc) and Mekanism add on mods. If that was not enough we tied it with a bow made of mods like LaserIO & Mining Gadgets (by Direwolf20). But the pièce de résistance that will bring you back a long long time ago in a galaxy far far way we added Star Wars Planets Ad Astra! (by TathanDev) and Create Sabers (by Leroidesafk). All this and this PAK feels like the an updated version of the our OG PAK, MC12! For the full mod list in the pack check out the Mod Pack Deps page for up to date list.
+  
+In this last release in this series, SquirrelPAK 20KS - the Kitchen Sink is built on top of SquirrelPAK 20ET - Highest Technology then we chucked the kitchen sink and the dirty dishes! Whats in the kitchen sink? Well all the mods that were in the LP20 pak that did not make it into the main line PAKs! Its a lot, 22 mods to be exact not including the dirty dishes. Whats the dirty dishes? Oh just a few mods that I thought I would add that we did not play through in the LP20 PAK 
+
+For the full mod list in the pack check out the Mod Pack Deps page for up to date list.
 
 
 This PAK is the last arrow in the full quiver of our MC 1.20.1 PAKS. Or is it? Stay tuned in! But why so many tech PAKs? I wanted to give a range from Low, Med, and Highest of tech mods so you can choose how much tech heat you want to bring to your modded Minecraft adventure. 

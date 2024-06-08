@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK 20HT Only
+#     Internal Server Script - SquirrelPAK 20KS Only
 #     Shows the current version set in version.txt vs current_version.txt
 #     cmd_restore_from_backup
 #     v1.1
@@ -26,7 +26,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20HT Only"
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20KS Only"
 echo "  (cmd_restore_from_backup.sh) - v1.1 - Licnesed under GNU GPLv3"
 echo "  Shows the current version set in version.txt vs current_version.txt "
 echo " ----------------------------------------------------------------------------"

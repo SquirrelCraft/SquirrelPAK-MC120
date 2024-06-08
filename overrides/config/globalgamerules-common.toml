@@ -108,6 +108,8 @@
 		fake_lava_source_conversion = false
 		#Non Vanilla gamerule: 'fakeWaterSourceConversion'
 		fake_water_source_conversion = true
+		#Non Vanilla gamerule: 'tfEnforcedProgression'
+		tf_enforced_progression = true
 
 	[gamerules.spawning]
 		#Whether phantoms can spawn in the nighttime.

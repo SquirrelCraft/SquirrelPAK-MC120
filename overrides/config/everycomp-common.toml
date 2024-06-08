@@ -37,6 +37,11 @@
 				chocolate_cake = true
 				honey_cake = true
 
+			[general.types.cake.thermal]
+				chocolate_cake = true
+				potion_cake = true
+				spice_cake = true
+
 		[general.types.wood_type]
 
 			[general.types.wood_type.domum_ornamentum]
@@ -50,6 +55,27 @@
 				aeronos = true
 				strophar = true
 				glacian = true
+
+			[general.types.wood_type.ars_nouveau]
+				archwood = true
+
+			[general.types.wood_type.twilightforest]
+				twilight_oak = true
+				canopy = true
+				mangrove = true
+				dark = true
+				time = true
+				transformation = true
+				mining = true
+				sorting = true
+
+			[general.types.wood_type.undergarden]
+				smogstem = true
+				wigglewood = true
+				grongle = true
+
+			[general.types.wood_type.steam_powered]
+				mire_oak = true
 
 		[general.types.leaves_type]
 
@@ -68,6 +94,33 @@
 
 			[general.types.leaves_type.ad_astra]
 				glacian = true
+
+			[general.types.leaves_type.ars_nouveau]
+				blue_archwood = true
+				green_archwood = true
+				purple_archwood = true
+				red_archwood = true
+
+			[general.types.leaves_type.twilightforest]
+				beanstalk = true
+				thorn = true
+				twilight_oak = true
+				canopy = true
+				mangrove = true
+				dark = true
+				rainbow_oak = true
+				time = true
+				transformation = true
+				mining = true
+				sorting = true
+
+			[general.types.leaves_type.twilightdelight]
+				ironwood = true
+
+			[general.types.leaves_type.undergarden]
+				smogstem = true
+				wigglewood = true
+				grongle = true
 
 	#Disables specific entries
 	[general.entries]
@@ -253,6 +306,12 @@
 			[general.entries.wood_type.create]
 				window_pane = true
 				window = true
+
+			[general.entries.wood_type.twilightforest]
+				banister = true
+				hollow_log_climbable = true
+				hollow_log_horizontal = true
+				hollow_log_vertical = true
 
 		[general.entries.leaves_type]
 

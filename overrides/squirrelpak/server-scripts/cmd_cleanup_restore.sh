@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK 20HT Only
+#     Internal Server Script - SquirrelPAK 20KS Only
 #     Removes restore files created by cmd_restore_from_backup.sh
 #     cmd_cleanup_restore.sh
 #     v1.1
@@ -26,7 +26,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20HT Only"
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20KS Only"
 echo "  (cmd_cleanup_restore.sh) - v1.1 - Licnesed under GNU GPLv3"
 echo "  Removes restore files created by cmd_restore_from_backup.sh "
 echo " ----------------------------------------------------------------------------"

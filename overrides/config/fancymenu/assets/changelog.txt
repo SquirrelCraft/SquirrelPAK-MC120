@@ -1,19 +1,19 @@
-SquirrelPAK 20HT - Highest Technology v1.0.0-1.20.1
+SquirrelPAK 20KS - the Kitchen Sink v1.0.0-1.20.1
 =====================================================
-SquirrelPAK 20HT Release 1.0.0
+SquirrelPAK 20KS Release 1.0.0
 File Version 1.0.0-1.20.1
 
 Required Forge Version: 47.2.32
 =====================================================
 
  
-Highest of Tech  
+Throw it all in there! 
 
 Summary:
-First Release
+First Release of 20KS
  
 -------------------------------------------
- Mod Changes from v1.0.0-1.20.1 of 20ET
+ Mod Changes from v1.0.0-1.20.1 of 20HT
 -------------------------------------------
  
  
@@ -24,41 +24,77 @@ First Release
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 20HT - Highest Technology v1.0.0-1.20.1           |  SquirrelPAK 20ET - Expanded Technology v1.0.0-1.20.1
-Applied-Mekanistics-1.4.2.jar                                  < 
-IronJetpacks-1.20.1-7.0.4.jar                                  | IronJetpacks-1.20.1-7.0.3.jar
-JustEnoughMekanismMultiblocks-1.20.1-4.2.jar                   < 
-Mekanism-1.20.1-10.4.8.43.jar                                  < 
-MekanismAdditions-1.20.1-10.4.8.43.jar                         < 
-MekanismBridge-Universal-3.1.jar                               < 
-MekanismExplosives-1.20.1-0.3.5.jar                            < 
-MekanismGenerators-1.20.1-10.4.8.43.jar                        < 
-MekanismTools-1.20.1-10.4.8.43.jar                             < 
-MekanismWeapons-1.20.1-1.5.jar                                 < 
-MoreMekanismProcessing-1.20.1-4.0.jar                          < 
-SWPlanets-forge-1.20.1-1.2.3.jar                               < 
-TofuCraftReload-1.20.1-5.12.1.2.jar                            | TofuCraftReload-1.20.1-5.12.1.1.jar
-ad_astra-forge-1.20.1-1.15.5.jar                               < 
-ad_astra_extra_additions-1.20.1-1.1.1.jar                      < 
-adtetra-2.0.0.jar                                              < 
-amendments-1.20-1.2.2.jar                                      | amendments-1.20-1.1.31.jar
-balm-forge-1.20.1-7.3.4-all.jar                                | balm-forge-1.20.1-7.2.2.jar
-botarium-forge-1.20.1-2.3.3.jar                                < 
-buildinggadgets2-1.0.7.jar                                     < 
-cookingforblockheads-forge-1.20.1-16.0.6.jar                   | cookingforblockheads-forge-1.20.1-16.0.4.jar
-create_ad_astra_compat-forge-1.20.1-1.0.0.jar                  < 
-create_sabers-1.20.1-1.3.0.jar                                 < 
-everycomp-1.20-2.6.57.jar                                      | everycomp-1.20-2.6.56.jar
-laserio-1.6.8.jar                                              < 
-mekanism-ad-astra-ores-0.3.0.jar                               < 
-mininggadgets-1.15.6.jar                                       < 
-resourcefulconfig-forge-1.20.1-2.1.2.jar                       < 
-resourcefullib-forge-1.20.1-2.1.25.jar                         < 
-rftoolsdim-1.20-11.0.7.jar                                     < 
+ SquirrelPAK 20KS - the Kitchen Sink v1.0.0-1.20.1             |  SquirrelPAK 20HT - Highest Technology v1.0.0-1.20.1
+Colony4ComputerCraft-1.20.1-2.6.3.jar                          < 
+DungeonsArise-1.20.x-2.1.58-release.jar                        < 
+EdivadLib-1.20.1-2.0.1.jar                                     < 
+ExtraStorage-1.20.1-4.0.7.jar                                  < 
+FramedBlocks-9.3.0.jar                                         | FramedBlocks-9.2.2.jar
+IronJetpacks-1.20.1-7.0.5.jar                                  | IronJetpacks-1.20.1-7.0.4.jar
+SimpleQuarry-1.20.1-20.1.5.jar                                 < 
+The_Undergarden-1.20.1-0.8.14.jar                              < 
+Thermal And Space-1.20.1-1.0.2.jar                             < 
+Thermal's Delight 1.20.1 R.1.0.jar                             < 
+TofuCraftReload-1.20.1-5.12.2.0.jar                            | TofuCraftReload-1.20.1-5.12.1.2.jar
+Towns-and-Towers-1.12-Fabric+Forge.jar                         < 
+UndergroundVillages-forge-1.20.1-2.1.0.jar                     < 
+[1.20.1-forge]-Epic-Knights-9.8.jar                            < 
+ad_astra-forge-1.20.1-1.15.18.jar                              | ad_astra-forge-1.20.1-1.15.5.jar
+advancednetherite-forge-2.1.3-1.20.1.jar                       | advancednetherite-forge-2.1.0-1.20.1.jar
+amendments-1.20-1.2.3.jar                                      | amendments-1.20-1.2.2.jar
+appliedenergistics2-forge-15.2.3.jar                           | appliedenergistics2-forge-15.2.2.jar
+ars_nouveau-1.20.1-4.11.0-all.jar                              < 
+arseng-1.1.6.jar                                               < 
+baubley-heart-canisters-1.20.1-1.0.5.jar                       < 
+compressedcreativity-1.20.1-0.1.8.b.jar                        < 
+create-founded-1.20.1-1.1.0.jar                                < 
+create-new-age-forge-1.20.1-1.1.2.jar                          < 
+create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d. < 
+create_recycle_1.0.2_forge_1.20.1.jar                          < 
+create_wt-forge-1.20.1-1.0.6.jar                               < 
+cristellib-1.1.5-forge.jar                                     < 
+dankstorage-forge-1.20.1-8.jar                                 < 
+dimdungeons-191-forge-1.20.1.jar                               < 
+dragonmounts-1.20.1-1.2.3-beta.jar                             < 
+dungeonsweaponry-1.16.0-1.20.1.jar                             < 
+eccentrictome-1.20.1-1.10.2.jar                                < 
+endrem_forge-5.2.3-R-1.20.X.jar                                < 
+enemyexpansion-2.3.1-forge-1.20.1.jar                          | everycomp-1.20-2.6.57.jar
+engineersdecor-1.3.30.jar                                      < 
+everycomp-1.20-2.6.58.jar                                      < 
+illager_trader-2.0.0.jar                                       < 
+industrial-foregoing-1.20.1-3.5.17.jar                         < 
+journeymap-1.20.1-5.9.23-forge.jar                             | journeymap-1.20.1-5.9.22-forge.jar
+jousting-1.20.1-v1.0.9.jar                                     < 
+kotlinforforge-4.11.0-all.jar                                  | kotlinforforge-4.10.0-all.jar
+luggage-1.20-1.6.2.jar                                         < 
+medieval_paintings-1.20-7.0.jar                                | mekanism-ad-astra-ores-0.3.0.jar
+mekanism-ad-astra-ores-1.0.0.jar                               < 
+minecolonies-1.20.1-1.1.563-RELEASE.jar                        < 
+multipiston-1.20-1.2.43-RELEASE.jar                            < 
+phosphophyllite-1.20.1-0.7.0-alpha.0.1.jar                     < 
+planttech2-0.02.694.jar                                        < 
+quartz-1.20.1-0.2.0-alpha.0.1.jar                              < 
+rebornstorage-1.20.1-5.0.7.jar                                 < 
+rsgauges-1.2.21.jar                                            < 
+rustic_engineer-1.0.4.jar                                      < 
+smallships-forge-1.20.1-2.0.0-b1.2.jar                         < 
+steam_powered-1.0.6-forge-1.20.1.jar                           < 
+structurize-1.20.1-1.0.733-RELEASE.jar                         < 
+supplementaries-1.20-2.8.14.jar                                | supplementaries-1.20-2.8.11.jar
+thermal_cultivation-1.20.1-11.0.1.24.jar                       < 
+thermal_foundation-1.20.1-11.0.5.69.jar                        | thermal_foundation-1.20.1-11.0.4.68.jar
+tlc_forge-1.0.3-R-1.20.X.jar                                   < 
+totemfactory-1.0.jar                                           < 
+towntalk-1.20.1-1.1.0.jar                                      < 
+twilightdelight-2.0.11.jar                                     < 
+twilightforest-1.20.1-4.3.2145-universal.jar                   < 
+undergardenpatch-1.4.0-1.20.1.jar                              < 
+xnet-1.20-6.1.3.jar                                            | xnet-1.20-6.1.2.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/20HT-v1.0.0-1.20.1-ModsList.txt
+squirrelpak/versions/20KS-v1.0.0-1.20.1-ModsList.txt
 -------------------------------------------
 
  
