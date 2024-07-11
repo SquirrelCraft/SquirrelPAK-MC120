@@ -1,3 +1,77 @@
+SquirrelPAK 20AV - Almost Vanilla v2.3.0-1.20.1
+=====================================================
+SquirrelPAK 20AV Release 2.3.0
+File Version 2.3.0-1.20.1
+
+Required Forge Version: 47.2.32
+=====================================================
+
+ 
+Last Update Maybe? 
+
+Summary:
+Last update unless there is a bug reported due to mods in pack
+
+Updated all mods that had updates
+
+Removed the pinned FTB mods as they are now working on the latest
+ 
+-------------------------------------------
+ Mod Changes from v2.2.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20AV - Almost Vanilla v2.3.0-1.20.1               |  SquirrelPAK 20AV - Almost Vanilla v2.2.0-1.20.1
+MapFrontiers-1.20.1-2.6.0p4-forge.jar                          | MapFrontiers-1.20.1-2.6.0p1-forge.jar
+PuzzlesLib-v8.1.21-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.20-1.20.1-Forge.jar
+areas-1.20.1-5.9.jar                                           | areas-1.20.1-5.6.jar
+balm-forge-1.20.1-7.3.6-all.jar                                | balm-forge-1.20.1-7.2.2.jar
+collective-1.20.1-7.70.jar                                     | collective-1.20.1-7.60.jar
+connectivity-1.20.1-5.6.jar                                    | connectivity-1.20.1-5.5.jar
+cupboard-1.20.1-2.7.jar                                        | cupboard-1.20.1-2.6.jar
+ftb-chunks-forge-2001.3.1.jar                                  | ftb-chunks-forge-2001.2.7.jar
+ftb-library-forge-2001.2.2.jar                                 | ftb-library-forge-2001.1.5.jar
+ftb-teams-forge-2001.3.0.jar                                   | ftb-teams-forge-2001.2.0.jar
+jei-1.20.1-forge-15.3.0.8.jar                                  | jei-1.20.1-forge-15.3.0.4.jar
+journeymap-1.20.1-5.10.0-forge.jar                             | journeymap-1.20.1-5.9.21-forge.jar
+starterkit-1.20.1-7.0.jar                                      | starterkit-1.20.1-6.7.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20AV-v2.3.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 20AV - Almost Vanilla v2.2.0-1.20.1
 =====================================================
 SquirrelPAK 20AV Release 2.2.0
