@@ -3,16 +3,6 @@ Current Mod List
 https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- Pinned Mods
- Mods listed below need to stay at this version due to crash
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- ftb-library-forge-2001.1.5 - new ver crashes game
- ftb-teams-forge-2001.2.0 - Needs newer ver of library
- ftb-chunks-forge-2001.2.7 - Needs newer ver of library
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
 
 Please report any issues with the mod pack on the issue tracker
 on our github page. See the mod pack description for details

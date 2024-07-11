@@ -5874,6 +5874,17 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+		#Spawning options for securitycraft:security_sea_boat
+		[betterminecarts.securitycraft.security_sea_boat]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
 	#Options for the pneumaticcraft mod.
 	[betterminecarts.pneumaticcraft]
 
@@ -7031,17 +7042,6 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
-		#Spawning options for tfmg:zin_grenade
-		[betterminecarts.tfmg.zin_grenade]
-			#Should the entity be allowed to spawn normally?
-			allowNormalSpawning = true
-			#Should spawners be able to spawn the entity?
-			allowSpawners = true
-			#Should spawn eggs be able to spawn the entity?
-			allowSpawnEggs = true
-			#Should the entity spawn via mob conversion? i.e. villager -> zombie
-			allowConversions = true
-
 		#Spawning options for tfmg:copper_grenade
 		[betterminecarts.tfmg.copper_grenade]
 			#Should the entity be allowed to spawn normally?
@@ -7088,6 +7088,50 @@
 
 		#Spawning options for tfmg:blue_spark
 		[betterminecarts.tfmg.blue_spark]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for tfmg:pipe_bomb
+		[betterminecarts.tfmg.pipe_bomb]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for tfmg:napalm_potato
+		[betterminecarts.tfmg.napalm_potato]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for tfmg:zinc_grenade
+		[betterminecarts.tfmg.zinc_grenade]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
+		#Spawning options for tfmg:lithium_spark
+		[betterminecarts.tfmg.lithium_spark]
 			#Should the entity be allowed to spawn normally?
 			allowNormalSpawning = true
 			#Should spawners be able to spawn the entity?
