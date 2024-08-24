@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1717275221513
+  last_edited_time = 1720735250533
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:366ebb00-b90d-4eca-82be-385932af2635-1717275198201] = [groups:][instances:]
+  [loading_requirement_container_meta:8ce58861-da1b-47a2-9865-0f21b5958357-1720735234689] = [groups:][instances:]
 }
 
 customization {
@@ -372,6 +372,48 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 0d481122-f9fa-4025-90de-0f125d1028e2-1710809322195
   [loading_requirement_container_meta:0d481122-f9fa-4025-90de-0f125d1028e2-1710809322195] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-short-name-ane-version.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = ef377e35-44fb-4f2d-bb96-126fccba920d-1720735236664
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-right
+  x = -100
+  y = -19
+  width = 173
+  height = 18
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020
+  [loading_requirement_container_meta:a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020] = [groups:][instances:]
 }
 
 vanilla_button {
