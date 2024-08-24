@@ -90,21 +90,29 @@
 	#Range: 0 -> 6
 	bankLevel=5
 	
+	#Whether Wallet Drops should be manually spawned into the world instead of the default behaviour of being passed to the PlayerDropsEvent
+	#Wallet Drops will be either the Wallet itself, or the coins dropped when the `coinDropPercent` game rule is greater than 0.
+	manualDropOverride=false
+	
 #Upgrade Settings
 [upgrades]
 	#Item Capacity Upgrade
 	[upgrades.item_capacity]
 		#The amount of item storage added by the first Item Capacity Upgrade (Iron)
-		#Range: 1 -> 1728
+		#Range: 1 -> 6400
 		itemCapacity1=192
 		
 		#The amount of item storage added by the first Item Capacity Upgrade (Gold)
-		#Range: 2 -> 1728
+		#Range: 2 -> 6400
 		itemCapacity2=384
 		
 		#The amount of item storage added by the first Item Capacity Upgrade (Diamond)
-		#Range: 3 -> 1728
+		#Range: 3 -> 6400
 		itemCapacity3=576
+		
+		#The amount of item storage added by the first Item Capacity Upgrade (Netherite)
+		#Range: 4 -> 6400
+		itemCapacity4=1152
 		
 	#Money Chest Magnet Upgrade
 	[upgrades.money_chest_magnet]
@@ -132,16 +140,12 @@
 	#Range: 1 -> 2147483647
 	tickDelay=20
 	
-	#The maximum delay (in ticks) between Money Mending & Coin Magnet ticks.
-	#If greater than 0, will run the Money Mending & Coin Magnet ticks this frequently even if the server is falling behind.
-	#Note: 20 ticks = 1s
-	#Range: 1 -> 2147483647
-	maxTickDelay=200
-	
 	#The cost required to repair a single item durability point with the Money Mending enchantment.
+	#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 	moneyMendingRepairCost="coin;1-lightmanscurrency:coin_copper"
 	
 	#The additional cost to repair an item with Infinity applied to it.
+	#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 	moneyMendingInfinityCost="null;empty"
 	
 	#The coin collection radius of the Coin Magnet I enchantment.
@@ -151,6 +155,12 @@
 	#The increase in the coin collection radius added by each additional level of the Coin Magnet enchantment.
 	#Range: 1 -> 50
 	coinMagnetLeveledRange=2
+	
+	#The final level of Coin Magnet that will result in increased range calculations.
+	#Increase if you have another mod that increases the max level of the Coin Magnet enchantment
+	#and you wish for those levels to actually apply an effect.
+	#Range: 3 -> 2147483647
+	coinMagnetCalculationLevelCap=10
 	
 #Auction House Settings
 [auction_house]
@@ -176,8 +186,18 @@
 [bank_accounts]
 	#The interest rate that bank accounts will earn just by existing.
 	#Setting to 0 will disable interesting and all interest-related ticks from happening.
-	#Range: 0 -> 100
-	interestRate=0
+	#Note: Rate of 1.0 will result in doubling the accounts money each interest tick.
+	#Rate of 0.01 is equal to a 1% interest rate.
+	#Range: 0.0 -> 1.0
+	interest=0.0
+	
+	#Whether interest applied to small amounts of money are guaranteed to give at least *some* money as long as there's money in the account.
+	#Example 1% interest applied to a bank account with only 1 copper coin will always give *at least* 1 copper coin.
+	forceInterest=true
+	
+	#Whether players will receive a personal notification whenever their bank account collects interest.
+	#Regardless of this value, the bank accounts logs will always display the interest interaction.
+	interestNotification=true
 	
 	#The number of minecraft ticks that will pass before interest is applied.
 	#Helpful Notes:
@@ -194,12 +214,20 @@
 	#A list of upper interest limits.
 	#Example:
 	#Adding "coin;1-lightmanscurrency:coin_netherite" to this list will make it so that players will get no more than 1 netherite coin worth of interest even if they would normally get more.
+	#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 	interestUpperLimits=[]
 	
 #Network Terminal Settings
 [terminal]
 	#Whether Traders with no defined Custom Name will be sorted to the bottom of the Trader list on the Network Terminal.
 	sortUnnamedTradersToBottom=false
+	
+#Paygate Settings
+[paygate]
+	#The maximum number of ticks that a paygate can be set to output a redstone signal for.
+	#Note: 20t = 1s
+	#Range: 0 -> 2147483647
+	maxRedstoneDuration=1200
 	
 #Player <-> Player Trading Options
 [player_trading]
@@ -247,6 +275,7 @@
 		allowClaimPurchase=false
 		
 		#The price per claim chunk purchased.
+		#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 		claimPrice="coin;1-lightmanscurrency:coin_gold"
 		
 		#The maximum number of extra claim chunks allowed to be purchased with this command.
@@ -258,6 +287,7 @@
 		allowForceloadPurchase=false
 		
 		#The price per forceload chunk purchased.
+		#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 		forceloadPrice="coin;1-lightmanscurrency:coin_netherite"
 		
 		#The maximum number of extra forceload chunks allowed to be purchased with this command.

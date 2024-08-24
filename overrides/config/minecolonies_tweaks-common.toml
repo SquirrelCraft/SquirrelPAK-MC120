@@ -6,3 +6,6 @@
 	#Range: 0.0 ~ 1.0
 	emptyColoniesGenerationChance = 1.0
 
+[buildings]
+	customCraftingModules = []
+
