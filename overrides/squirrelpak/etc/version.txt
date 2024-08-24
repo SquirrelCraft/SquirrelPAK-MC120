@@ -4,12 +4,12 @@
 PAK_NAME_INIT_PFX=20
 PAK_NAME_INIT=VP
 
-PAK_RELEASE=2.2.0
-PAK_MC_VER=1.20.01
+PAK_RELEASE=3.0.0
+PAK_MC_VER=1.20.1
 
 PAK_DESC="Vanilla Plus!"
 
-PAK_FORGE_VER=47.2.32
+PAK_FORGE_VER=47.3.7
 
 PAK_Menu3_Music_Title="Music: Arpanauts by Eric Skiff Music"
 
