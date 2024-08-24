@@ -5711,6 +5711,17 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+		#Spawning options for tofucraft:soyball
+		[betterminecarts.tofucraft.soyball]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
 	#Options for the amendments mod.
 	[betterminecarts.amendments]
 
@@ -7141,6 +7152,17 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
+		#Spawning options for tfmg:tesla_coil_lightning
+		[betterminecarts.tfmg.tesla_coil_lightning]
+			#Should the entity be allowed to spawn normally?
+			allowNormalSpawning = true
+			#Should spawners be able to spawn the entity?
+			allowSpawners = true
+			#Should spawn eggs be able to spawn the entity?
+			allowSpawnEggs = true
+			#Should the entity spawn via mob conversion? i.e. villager -> zombie
+			allowConversions = true
+
 	#Options for the ad_astra mod.
 	[betterminecarts.ad_astra]
 
@@ -7342,8 +7364,8 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
-		#Spawning options for ad_astra:space_painting
-		[betterminecarts.ad_astra.space_painting]
+		#Spawning options for ad_astra:ice_spit
+		[betterminecarts.ad_astra.ice_spit]
 			#Should the entity be allowed to spawn normally?
 			allowNormalSpawning = true
 			#Should spawners be able to spawn the entity?
@@ -7353,8 +7375,8 @@
 			#Should the entity spawn via mob conversion? i.e. villager -> zombie
 			allowConversions = true
 
-		#Spawning options for ad_astra:ice_spit
-		[betterminecarts.ad_astra.ice_spit]
+		#Spawning options for ad_astra:air_vortex
+		[betterminecarts.ad_astra.air_vortex]
 			#Should the entity be allowed to spawn normally?
 			allowNormalSpawning = true
 			#Should spawners be able to spawn the entity?
@@ -7759,6 +7781,28 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 
+	#Spawning options for swplanets:jawa
+	[swplanets.jawa]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for swplanets:bantha
+	[swplanets.bantha]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
 #Options for the industrialforegoing mod.
 [industrialforegoing]
 
@@ -7786,6 +7830,20 @@
 
 	#Spawning options for industrialforegoing:infinity_nuke
 	[industrialforegoing.infinity_nuke]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the bagus_lib mod.
+[bagus_lib]
+
+	#Spawning options for bagus_lib:mini_bagu
+	[bagus_lib.mini_bagu]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?

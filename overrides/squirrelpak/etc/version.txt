@@ -4,12 +4,12 @@
 PAK_NAME_INIT_PFX=LP
 PAK_NAME_INIT=20
 
-PAK_RELEASE=10.0.1
+PAK_RELEASE=11.0.0
 PAK_MC_VER=1.20.1
 
 PAK_DESC="Lets Play MC20!"
 
-PAK_FORGE_VER=47.2.32
+PAK_FORGE_VER=47.3.7
 
 PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
