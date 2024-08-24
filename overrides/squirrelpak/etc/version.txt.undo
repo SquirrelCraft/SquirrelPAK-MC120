@@ -4,12 +4,12 @@
 PAK_NAME_INIT_PFX=20
 PAK_NAME_INIT=ME
 
-PAK_RELEASE=2.2.0
+PAK_RELEASE=2.1.0
 PAK_MC_VER=1.21.1
 
 PAK_DESC="Medieval Everquesting"
 
-PAK_FORGE_VER=47.2.32
+PAK_FORGE_VER=47.2.20
 
 PAK_Menu3_Music_Title="Music: Townsong by Alexander Nakarada"
 
