@@ -4,12 +4,12 @@
 PAK_NAME_INIT_PFX=20
 PAK_NAME_INIT=PA
 
-PAK_RELEASE=1.0.0
+PAK_RELEASE=3.0.0
 PAK_MC_VER=1.20.1
 
 PAK_DESC="Pressure Arising"
 
-PAK_FORGE_VER=47.2.32
+PAK_FORGE_VER=47.3.7
 
 PAK_Menu3_Music_Title="Music: Metalicious by Alexander Nakarada"
 

@@ -38,6 +38,16 @@
 	#Options: ITEMS_WIDE, ITEMS_NARROW, TEXT
 	displayType=ITEMS_WIDE
 	
+#Network Terminal Settings
+[network_terminal]
+	#The maximum number of columns the Network Terminal is allowed to display
+	#Range: 2 -> 100
+	columnLimit=4
+	
+	#The maximum number of rows the Network Terminal is allowed to display
+	#Range: 4 -> 100
+	rowLimit=16
+	
 #Inventory Button Settings
 [inventory_buttons]
 	#The position that the notification & team manager buttons will be placed at in the players inventory.
