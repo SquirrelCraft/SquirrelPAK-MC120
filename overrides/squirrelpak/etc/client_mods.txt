@@ -37,4 +37,6 @@ panoramica*
 TipTheScales*
 # Load My Resources
 loadmyresources*
+# Colorful Hearts
+colorfulhearts*
 # Blank Line
