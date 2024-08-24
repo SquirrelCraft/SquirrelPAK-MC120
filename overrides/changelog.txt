@@ -1,23 +1,21 @@
-SquirrelPAK 20KS - the Kitchen Sink v2.3.1a-1.20.1
+SquirrelPAK 20KS - the Kitchen Sink v2.3.2-1.20.1
 =====================================================
-SquirrelPAK 20KS Release 2.3.1a
-File Version 2.3.1a-1.20.1
+SquirrelPAK 20KS Release 2.3.2
+File Version 2.3.2-1.20.1
 
-Required Forge Version: 47.2.32
+Required Forge Version: 47.3.7
 =====================================================
 
  
-Quick, Patch! 
+More fixins, new forge ver
 
 Summary:
-Issues with Global Pack loader not loading the datapack
-forced us to remove it and use Openloader. Will also
-look into replacing "Loadmyresources" with a data
-pack as well. See full change log for other changes
-made with v2.3.1
+Updated mods with updates and also added fixes for Steam Powered
+mod due to ore issues. Mod updates (JEI) forced and update to the
+forge version
  
 -------------------------------------------
- Mod Changes from v2.3.1-1.20.1
+ Mod Changes from v2.3.1a-1.20.1
 -------------------------------------------
  
  
@@ -28,13 +26,34 @@ made with v2.3.1
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 20KS - the Kitchen Sink v2.3.1a-1.20.1            |  SquirrelPAK 20KS - the Kitchen Sink v2.3.1-1.20.1
-OpenLoader-Forge-1.20.1-19.0.4.jar                             < 
-                                                               > global_packs-forge-1.19.4-1.16.2_forge.jar
+ SquirrelPAK 20KS - the Kitchen Sink v2.3.2-1.20.1             |  SquirrelPAK 20KS - the Kitchen Sink v2.3.1a-1.20.1
+AdFinders-1.20.1-9.1.10.0-build.0804.jar                       | AdFinders-1.20.1-9.1.9.0-build.0696.jar
+CommonCapabilities-1.20.1-2.9.3.jar                            | CommonCapabilities-1.20.1-2.9.2.jar
+CraftTweaker-forge-1.20.1-14.0.43.jar                          | CraftTweaker-forge-1.20.1-14.0.40.jar
+IntegratedCrafting-1.20.1-1.1.8.jar                            | IntegratedCrafting-1.20.1-1.1.7.jar
+IntegratedDynamics-1.20.1-1.23.2.jar                           | IntegratedDynamics-1.20.1-1.23.1.jar
+JustEnoughMekanismMultiblocks-1.20.1-4.5.jar                   | JustEnoughMekanismMultiblocks-1.20.1-4.4.jar
+                                                               > SWPlanets-forge-1.20.1-1.2.3.jar
+appliedenergistics2-forge-15.2.13.jar                          | appliedenergistics2-forge-15.2.11.jar
+balm-forge-1.20.1-7.3.9-all.jar                                | balm-forge-1.20.1-7.3.7-all.jar
+camera-forge-1.20.1-1.0.14.jar                                 | camera-forge-1.20.1-1.0.12.jar
+cc-tweaked-1.20.1-forge-1.113.0.jar                            | cc-tweaked-1.20.1-forge-1.112.0.jar
+citadel-2.6.0-1.20.1.jar                                       | citadel-2.5.7-1.20.1.jar
+dankstorage-forge-1.20.1-13.jar                                | dankstorage-forge-1.20.1-12.jar
+easy-piglins-forge-1.20.1-1.0.10.jar                           | easy-piglins-forge-1.20.1-1.0.9.jar
+easy-villagers-forge-1.20.1-1.1.17.jar                         | easy-villagers-forge-1.20.1-1.1.16.jar
+everycomp-1.21-2.6.72.jar                                      | everycomp-1.20-2.6.71.jar
+jei-1.20.1-forge-15.12.3.55.jar                                | jei-1.20.1-forge-15.12.3.54.jar
+lightmanscurrency-1.20.1-2.2.3.1.jar                           | lightmanscurrency-1.20.1-2.2.3.0a.jar
+lootr-forge-1.20-0.7.34.89.jar                                 | lootr-forge-1.20-0.7.34.87.jar
+moonlight-1.20-2.12.16-forge.jar                               | moonlight-1.20-2.12.11-forge.jar
+swplanets-forge-1.20.1-1.4.4.jar                               < 
+tfmg-0.9.1-1.20.1.jar                                          | tfmg-0.9.0d-1.20.1.jar
+tofudelight-1.20.1-3.1.0.jar                                   | tofudelight-1.20.1-3.0.0.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/20KS-v2.3.1a-1.20.1-ModsList.txt
+squirrelpak/versions/20KS-v2.3.2-1.20.1-ModsList.txt
 -------------------------------------------
 
  

@@ -65,9 +65,6 @@
 			leek_green = true
 			leek = true
 
-		[types.wood_type.steam_powered]
-			mire_oak = true
-
 		[types.wood_type.ad_astra]
 			aeronos = true
 			strophar = true
@@ -88,6 +85,9 @@
 			transformation = true
 			mining = true
 			sorting = true
+
+		[types.wood_type.steam_powered]
+			mire_oak = true
 
 	[types.cake]
 
