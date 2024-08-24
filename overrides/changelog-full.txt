@@ -1,3 +1,67 @@
+SquirrelPAK 20KS - the Kitchen Sink v3.0.0-1.20.1
+=====================================================
+SquirrelPAK 20KS Release 3.0.0
+File Version 3.0.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+v3.0 - End of the line
+
+Summary:
+Last major update only critical bug fixes now
+
+Updated all mods - requires forge 47.3.7
+
+Did we skip a few numbers? Yeah its the hot thing to
+do now right Windows 9?
+ 
+-------------------------------------------
+ Mod Changes from v2.3.2.1-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20KS - the Kitchen Sink v3.0.0-1.20.1             |  SquirrelPAK 20KS - the Kitchen Sink v2.3.2.1-1.20.1
+createaddition-1.20.1-1.2.4e.jar                               | createaddition-1.20.1-1.2.4d.jar
+easy-piglins-forge-1.20.1-1.0.11.jar                           | easy-piglins-forge-1.20.1-1.0.10.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20KS-v3.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = =
+
+
+
 SquirrelPAK 20KS - the Kitchen Sink v2.3.2.1-1.20.1
 =====================================================
 SquirrelPAK 20KS Release 2.3.2.1
